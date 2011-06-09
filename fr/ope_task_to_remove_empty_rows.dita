@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_remove_empty_rows" xml:lang="fr-FR">
+    <title>Comment supprimer des lignes vides</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>lignes<indexterm>supprimer les vides</indexterm></indexterm><indexterm>supprimer les lignes vides</indexterm><indexterm>lignes vides<indexterm>supprimer</indexterm></indexterm><indexterm>filtrer les lignes vides</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p>Vous pouvez supprimer les lignes qui contiennent des valeurs vides dans les colonnes que vous sélectionnez.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Sélectionnez les colonnes dont vous souhaitez tester qu'elles contiennent des valeurs vides.</cmd>
+            </step>
+            <step>
+                <cmd>Cliquez <menucascade><uicontrol>Données</uicontrol><uicontrol>Tirer &amp; Filtrer</uicontrol><uicontrol>Supprimer les lignes vides</uicontrol></menucascade>.</cmd>
+                <stepresult>Ormetis Professional Edition supprime toutes les lignes qui contiennent des valeurs vides dans les colonnes sélectionnées.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

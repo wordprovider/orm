@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_delete_columns_rows" xml:lang="en-us">
+    <title>To delete columns and rows</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>columns<indexterm>deleting</indexterm></indexterm><indexterm>rows<indexterm>deleting</indexterm></indexterm><indexterm>views<indexterm>deleting columns from</indexterm></indexterm><indexterm>views<indexterm>deleting rows from</indexterm></indexterm><indexterm>deleting columns</indexterm><indexterm>deleting rows</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Select the column headers of the columns you want to delete and the row numbers of the rows you want to delete.</cmd>
+                <info>
+                    <note>You can select column headers only or row numbers only if you want to delete columns only or rows only.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Click <menucascade><uicontrol>Home</uicontrol><uicontrol>Columns &amp; Rows</uicontrol><uicontrol>Delete</uicontrol></menucascade>.</cmd>
+                <stepresult>Ormetis Professional Edition deletes the columns and rows you selected from the view.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

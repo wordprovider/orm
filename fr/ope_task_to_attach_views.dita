@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_attach_views" xml:lang="fr-FR">
+    <title>Pour accoler des vues</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>vues<indexterm>accoler</indexterm></indexterm><indexterm>accoler des vues</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Sélectionnez la première vue.</cmd>
+            </step>
+            <step>
+                <cmd>Maintenez la touche "Ctrl" enfoncée.</cmd>
+            </step>
+            <step>
+                <cmd>Sélectionnez la seconde vue.</cmd>
+            </step>
+            <step>
+                <cmd>Cliquez sur <menucascade><uicontrol>Données</uicontrol><uicontrol>Combiner</uicontrol><uicontrol>Accoler</uicontrol></menucascade>.</cmd>
+                <stepresult>Ormetis Professional Edition accole les vues et fait correspondre les données aux colonnes communes partout où cela s'avère possible.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

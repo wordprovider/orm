@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd">
+<concept id="ope_concept_grouping" xml:lang="fr-FR">
+    <title>Grouper des vues</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>vues<indexterm>grouper</indexterm></indexterm><indexterm>grouper des vues</indexterm><indexterm>données<indexterm>groupage</indexterm></indexterm><indexterm>contrôle de groupage</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <conbody><p>Vous groupez des vues en sélectionnant une colonne que vous souhaitez utiliser pour regrouper les données dans la vue. Lorsque vous groupez les données, Ormetis Professional Edition supprime la colonne de groupage de la vue et affiche ses valeurs uniques dans le contrôle de groupage, à gauche de la vue. Lorsque vous sélectionnez une valeur dans le contrôle de groupage, la vue affiche toutes les lignes où la colonne de groupage présentait la valeur sélectionnée.</p><p>L'illustration affiche une vue groupée avec un contrôle de groupage.</p><image href="images/vw_grouped_view_from_folder.gif" scale="70"/></conbody>
+</concept>

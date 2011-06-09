@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_import_files_from_a_folder" xml:lang="en-us">
+    <title>To import files from folders</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>files<indexterm>importing from folders</indexterm></indexterm><indexterm>folders<indexterm>importing files from</indexterm></indexterm><indexterm>importing files from folders</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Select <menucascade><uicontrol>Home</uicontrol><uicontrol>Import</uicontrol><uicontrol>Folder</uicontrol></menucascade>.</cmd>
+            </step>
+            <step>
+                <cmd>Select the folder containing the files you want to import and click <uicontrol>OK</uicontrol>.</cmd>
+                <stepresult>Ormetis Professional Edition creates a grouped view from the files in the folder.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

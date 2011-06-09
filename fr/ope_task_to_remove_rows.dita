@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_remove_rows" xml:lang="fr-FR">
+    <title>Pour supprimer des lignes</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>lignes<indexterm>supprimer</indexterm></indexterm><indexterm>supprimer des lignes</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Sélectionnez les cellules qui contiennent les valeurs que vous souhaitez utiliser pour supprimer les lignes.</cmd>
+            </step>
+            <step>
+                <cmd>Cliquez <menucascade><uicontrol>Données</uicontrol><uicontrol>Trier &amp; Filtrer</uicontrol><uicontrol>Supprimer les lignes</uicontrol></menucascade>.</cmd>
+                <stepresult>
+                    <p>Ormetis Professional Edition supprime toutes les lignes où les colonnes sélectionnées ont les valeurs des cellules sélectionnées.</p>
+                    <p>Si vous avez, par exemple, sélectionnez les cellules de la colonne Ville qui ont pour valeurs "Marseille" et "Lyon", Ormetis Professional Edition supprime toutes les lignes dont la valeur pour Ville est "Marseille" ou "Lyon".</p>
+                </stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

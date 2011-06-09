@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_keep_rows" xml:lang="en-us">
+    <title>To keep rows</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>rows<indexterm>keeping</indexterm></indexterm><indexterm>keeping rows</indexterm><indexterm>column values<indexterm>keeping rows based on</indexterm></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Select the cells containing the values you want to use to keep rows.</cmd>
+            </step>
+            <step>
+                <cmd>Click <menucascade><uicontrol>Data</uicontrol><uicontrol>Sort &amp; Filter</uicontrol><uicontrol>Keep Rows</uicontrol></menucascade>.</cmd>
+                <stepresult>
+                    <p>Ormetis Professional Edition removes all rows where the columns containing selected cells do not have the values in the selected cells.</p>
+                    <p>For example, if you selected cells in the City column containing the values "Los Angeles" and "San Diego", Ormetis Professional Edition removes all rows where the value of City is not "Los Angeles" or "San Diego".</p>
+                </stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

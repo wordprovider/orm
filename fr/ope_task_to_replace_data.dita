@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_replace_data" xml:lang="fr-FR">
+    <title>Pour remplacer des données dans des cellules</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>données<indexterm>remplacer des données dans des cellules</indexterm></indexterm><indexterm>remplacer des données dans des cellules</indexterm><indexterm>cellules<indexterm>remplacer des données dans</indexterm></indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody><steps>
+            <step>
+                <cmd>Sélectionnez la cellule dont vous souhaitez remplacer les données.</cmd>
+            </step>
+            <step>
+                <cmd>Sélectionnez les lignes si vous souhaitez que le remplacement de données ne s'applique qu'à certaines cellules en particulier.</cmd>
+                <info>Si vous ne sélectionnez aucune ligne, Ormetis Professional Edition remplace les données de toutes les cellules dont les valeurs correspondent à la valeur que vous avez sélectionnée.</info>
+            </step>
+            <step>
+                <cmd>Cliquez <menucascade><uicontrol>Données</uicontrol><uicontrol>Trier &amp; Filtrer</uicontrol><uicontrol>Remplacer tout</uicontrol></menucascade> et saisissez le texte de remplacement dans la cellule.</cmd>
+            </step>
+        </steps><example>
+            <title>Remplacer un contenu textuel dans les cellules</title>
+            <p>Dans la vue suivante, vous sélectionnez les lignes 1 et 2 et remplacez "Veste", dans la colonne Produit, par "Manteau".</p><image href="images/vw_before_replace.gif" scale="70"/>
+            <p>Ormetis Professional Edition remplace les données comme suit :</p><image href="images/vw_row_replace.gif" scale="70"/>
+            <p>Dans la même vue, vous remplacez le texte "Manteau" par "Veste" dans toute cellule de la colonne Produit et en ne sélectionnant aucune ligne. Dans ce cas, Ormetis Professional Edition transforme en "Veste" les valeurs dans toutes les cellules.</p>
+        </example></taskbody>
+</task>

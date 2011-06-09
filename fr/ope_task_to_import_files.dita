@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_import_files" xml:lang="fr-FR">
+    <title>Pour importer des fichiers</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>fichiers<indexterm>importer</indexterm></indexterm><indexterm>importer des fichiers</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Cliquez <menucascade><uicontrol>Accueil</uicontrol><uicontrol>Importer</uicontrol><uicontrol>Fichier</uicontrol></menucascade>.</cmd>
+            </step>
+            <step>
+                <cmd>Sélectionnez les fichiers que vous souhaitez importer et cliquez sur <uicontrol>Ouvrir</uicontrol>.</cmd>
+                <stepresult>
+                    <p>Les vues qui correspondent aux fichiers importés apparaissent dans le panneau <uicontrol>Vue</uicontrol> et les étapes correspondant aux actions d'importation apparaissent dans le panneau <uicontrol>Scénario</uicontrol>. Chaque étape apparaît comme <systemoutput>&lt;nom de vue> Insérer Fichier &lt;nom de fichier></systemoutput>.</p>
+                    <p>Chaque vue comprend deux colonnes en plus des colonnes du fichier : la première présente le nom de la vue qui affiche le numéro de ligne, la seconde présente une colonne <systemoutput>Fichier</systemoutput> qui répète le nom du fichier à chaque ligne.</p>
+                    <p>Si le fichier importé est un tableur Excel composé de feuilles de calcul, la vue apparaît sous la forme d'une vue groupée et le contrôle de groupage à gauche de la vue contient un groupe mentionnant le nom de chaque feuille de calcul.</p>
+                </stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

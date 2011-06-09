@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd">
+<concept id="concept-id" xml:lang="en-us">
+    <title outputclass="">Notice légale</title>
+    <conbody>
+        <p> Le logiciel décrit dans cette documentation est fourni au terme d’un contrat de licence et ne peut être utilisé qu’en conformité avec ce contrat.</p>
+        <p> 1. Propriété et usage :</p>
+        <p> Cette documentation, ainsi que le logiciel qu’elle décrit, sont fournis à l’utilisateur sous licence et ne peuvent en conséquence être utilisés ou copiés que selon les clauses et conditions dudit contrat de licence. Tous droits réservés dans tous pays. Veuillez noter que le contenu de cette documentation est protégé par les lois sur les droits d’auteurs, même dans l’hypothèse où il ne serait pas distribué avec un logiciel régi par un contrat de licence d’utilisateur Tout usage, représentation ou reproduction intégral e ou partielle, fait sans le consentement expresse et préalable d’ORMETIS est illicite et constitue une contrefaçon.</p>
+        <p>2. Conformité et garantie</p>
+        <p> Le contenu de la présente Documentation est fourni « EN L’ETAT », et ORMETIS n’accorde aucune garantie quant à son exactitude ou à son utilisation. Toute utilisation de la Documentation est de la seule responsabilité de l’utilisateur. La documentation peut inclure des erreurs techniques ou typographiques, ou des imprécisions. ORMETIS se réserve le droit d’y apporter toutes les modifications nécessaires sans préavis.</p>
+        <p>3. Evolution</p>
+        <p>La documentation correspond à la version référencée du logiciel. Entre deux versions, des mises à jour du logiciel peuvent être opérées sans modification de la documentation. Toutefois, un additif peut être joint à la documentation existante pour présenter les modifications et améliorations apportées par ces mises à jour.</p>
+        <p> 4. Marques</p>
+        <p>Ormetis, le logo Ormetis et Ormetis Professional Edition sont des marques commerciales ou déposées d’ORMETIS SAS. Microsoft, Excel, Windows et le logo Windows sont des marques commerciales ou déposées de Microsoft Corporation. Tous les autres noms de produit cités peuvent être des marques commerciales ou déposées de leurs détenteurs respectifs et sont reconnus comme tels. </p>
+    </conbody>
+</concept>

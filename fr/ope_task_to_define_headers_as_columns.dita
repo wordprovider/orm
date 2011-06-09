@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_define_headers_as_columns" xml:lang="fr-FR">
+    <title>Pour définir des en-têtes des comme colonnes</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>en-têtes<indexterm>définir comme colonnes</indexterm></indexterm><indexterm>colonnes<indexterm>définir des en-têtes comme</indexterm></indexterm><indexterm>définition d'en-têtes comme colonnes</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Sélectionnez la cellule en haut des en-têtes de ligne.</cmd>
+            </step>
+            <step>
+                <cmd>Cliquez <menucascade><uicontrol>Accueil</uicontrol><uicontrol>En-têtes</uicontrol><uicontrol>En-tête comme colonne</uicontrol></menucascade>.</cmd>
+                <stepresult>Les données des en-têtes de ligne deviennent une colonne dans la vue.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

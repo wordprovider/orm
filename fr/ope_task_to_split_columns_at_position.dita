@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_split_columns_at_position" xml:lang="fr-FR">
+    <title>Pour découper des colonnes à la position d'un caractère</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>colonnes<indexterm>découper à la position d'un caractère</indexterm></indexterm><indexterm>découper des colonnes à la position d'un caractère</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Sélectionnez la colonne que vous souhaitez découper.</cmd>
+            </step>
+            <step>
+                <cmd>Dans l'élément de menu <menucascade><uicontrol>Accueil</uicontrol><uicontrol>Format</uicontrol><uicontrol>Découper à</uicontrol></menucascade>, saisissez la position de caractère à laquelle vous souhaitez découper les données de la colonne vers de nouvelles colonnes.</cmd>
+            </step>
+            <step>
+                <cmd>Cliquez <uicontrol>Découper à</uicontrol>.</cmd>
+                <stepresult>Ormetis Professional Edition découpe les données en colonnes à chaque <codeph>n</codeph> caractères, où <codeph>n</codeph> est le chiffre que vous avez sélectionné.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_stack_views" xml:lang="fr-FR">
+    <title>Pour empiler des vues</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>vues<indexterm>empiler</indexterm></indexterm><indexterm>empiler des vues</indexterm><indexterm>combiner des vues<indexterm>par empilage</indexterm></indexterm><indexterm>paramètres régionaux<indexterm>et vues empilées</indexterm></indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Sélectionnez la première vue.</cmd>
+            </step>
+            <step>
+                <cmd>Maintenez la touche "Ctrl" enfoncée.</cmd>
+            </step>
+            <step>
+                <cmd>Sélectionnez la seconde vue.</cmd>
+            </step>
+            <step>
+                <cmd>Sélectionnez <menucascade><uicontrol>Données</uicontrol><uicontrol>Combiner</uicontrol><uicontrol>Empiler</uicontrol></menucascade> dans le menu.</cmd>
+                <info>
+                    <note>Vous pouvez aussi empiler des vues en glissant la vue inférieure sur la vue supérieure.</note>
+                </info>
+                <stepresult>
+                    <ul>
+                        <li>La vue supérieure dans le panneau <uicontrol>Vue</uicontrol> est empilée au dessus de la vue inférieure.</li>
+                        <li>Les paramètres régionaux (par exemple, le format de date) de la vue supérieure sont appliqués à la vue combinée.</li>
+                        <li>La vue combinée contient une colonne pour chaque colonne des vues supérieure et inférieure. Si une colonne a le même nom dans les deux vues, elle apparaît comme une colonne unique dans la vue combinée. Si une colonne n'existait pas dans les vues originales, ses valeurs apparaissent à zéro dans les lignes correspondant aux vues où elle n'existe pas.</li>
+                        <li>Une étape, <systemoutput>Empiler &lt;vue sur &lt;vue inférieure></systemoutput> apparaît dans le panneau <uicontrol>Etapes</uicontrol>.</li>
+                    </ul>
+                </stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

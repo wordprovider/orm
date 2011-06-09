@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_replace_data" xml:lang="en-us">
+    <title>To replace data in cells</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>data<indexterm>replacing data in cells</indexterm></indexterm><indexterm>replacing data in cells</indexterm><indexterm>cells<indexterm>replacing data in</indexterm></indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody><steps>
+            <step>
+                <cmd>Select the cell whose data you want to replace.</cmd>
+            </step>
+            <step>
+                <cmd>Select rows to if you want the data replacement to apply to specific rows only.</cmd>
+                <info>If you do not select any rows, Ormetis Professional Edition replaces the data in all cells whose values correspond to the value you selected.</info>
+            </step>
+            <step>
+                <cmd>Click <menucascade><uicontrol>Data</uicontrol><uicontrol>Sort &amp; Filter</uicontrol><uicontrol>Replace All</uicontrol></menucascade> and type the replacement text in the cell.</cmd>
+            </step>
+        </steps><example>
+            <title>Replacing text in cells</title>
+            <p>In the following view you select rows 1 and 2 and replace the "Jacket" text in the Product column with "Coat".</p><image href="images/vw_before_replace.gif" scale="70"/>
+            <p>Ormetis Professional Edition replaces the data as follows:</p><image href="images/vw_row_replace.gif" scale="70"/>
+            <p>In the same view, you replace the "Jacket" text with "Coat" in any cell in the Product column, and without selecting any rows. In this case, Ormetis Professional Edition changes the values in all the cells to "Coat".</p>
+        </example></taskbody>
+</task>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd">
+<concept id="ope_concept_stacking_views" xml:lang="fr-FR">
+    <title>Empiler des vues</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>vues<indexterm>empilage</indexterm><indexterm>changer les paramètres régionaux de</indexterm></indexterm><indexterm>empiler des vues</indexterm><indexterm>paramètres régionaux<indexterm>changer</indexterm></indexterm></keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>Vous empilez des vues en plaçant une vue au dessus d'une autre pour créer une nouvelle vue. </p>
+        <p>Une vue empilée hérite des paramètres régionaux par défaut de la vue supérieure dans le panneau <uicontrol>Vue</uicontrol>. Si la vue supérieure présente, par exemple, un format de date à l'américaine (mm/jj/aaaa), les dates de la vue empilée répondront au même format mm/jj/aaaa. <note>Vous pouvez modifier les paramètres régionaux de toute vue en sélectionnant la vue, puis en sélectionnant <menucascade><uicontrol>Vues</uicontrol><uicontrol>Local</uicontrol><uicontrol>Paramètres régionaux</uicontrol></menucascade>.</note></p>
+        <p>Une vue empilée contient une colonne pour chaque colonne unique des vues originales. Si les vues originales contiennent des colonnes qui ont le même nom, la vue empilée combine leurs données en une colonne qui a le même nom. Si une colonne n'apparaît pas dans les vues originales, ses données apparaissent sous forme vierge dans les lignes correspondant aux vues où la colonne n'existait pas.</p>
+    </conbody>
+</concept>

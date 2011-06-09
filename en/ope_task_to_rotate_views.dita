@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_rotate_views" xml:lang="en-us">
+    <title>To rotate data in views</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>data<indexterm>rotating</indexterm></indexterm><indexterm>rotating data</indexterm><indexterm>views<indexterm>rotating</indexterm></indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody><context>When you rotate a view you rotate its data through 90 degrees. The data headings move between column headers and row headers to identify the rotated data.</context><steps>
+            <step>
+                <cmd>Select the view.</cmd>
+            </step>
+            <step>
+                <cmd>Click <menucascade><uicontrol>Data</uicontrol><uicontrol>Transform</uicontrol><uicontrol>Rotate</uicontrol></menucascade>.</cmd>
+                <stepresult>Ormetis Professional Edition rotates the data in the view through 90 degrees.</stepresult>
+            </step>
+        </steps><example>
+            <title>Rotating a view</title>
+            <p>A view contains the following data:</p><image href="images/vw_deliveries.gif" scale="70"/>
+            <p>After rotation, the data is as follows:</p>
+            <image href="images/vw_rotated.gif" scale="70"/><p>Because the delivery dates now appear across row 1, quantities across row 2, and products across row 3 (all from right to left), the column headers become row headers to identify the rotated data.</p><p>If you rotate the data again, the headers again become column headers to identify the rotated data by column.</p><image href="images/vw_rotated_again.gif" scale="70"/>
+        </example></taskbody>
+</task>

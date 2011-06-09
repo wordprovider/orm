@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_save_scenarios" xml:lang="en-us">
+    <title>To save scenarios</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>scenarios<indexterm>saving</indexterm></indexterm><indexterm>saving scenarios</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click the <uicontrol>Ormetis</uicontrol> button <image href="images/btn_ormetis.gif" scale="70"/>, then click <uicontrol>Save</uicontrol> or <uicontrol>Save As</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>If you clicked <uicontrol>Save As</uicontrol> or if you are saving the scenario for the first time, type the name of the scenario, then click <uicontrol>OK</uicontrol>.</cmd>
+                <info>
+                    <note>Ormetis Professional Edition saves scenarios with the ORM file extension.</note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

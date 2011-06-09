@@ -1,0 +1,4 @@
+Livraison	Quantité	Produit
+25/02/2009	150	Chemise
+20/02/2009	200	Pull
+27/02/2009	100	Bermuda

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd">
+<concept id="ope_concept_importing_files_from_folder" xml:lang="fr-FR">
+    <title>Importer des fichiers à partir de répertoires</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>fichiers<indexterm>importer à partir de répertoires</indexterm></indexterm><indexterm>répertoires<indexterm>importer des fichiers à partir de</indexterm></indexterm><indexterm>importation de fichiers à partir de répertoires</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <conbody><p>Vous pouvez importer des fichiers multiples à partir d'un répertoire en multi-sélectionnant tous les fichiers. Vous pouvez aussi sélectionner le répertoire qui contient les fichiers. </p><p>Sélectionner le répertoire présente un net avantage. Quand vous sélectionnez le répertoire, Ormetis Professional Edition crée une vue groupée. Chaque groupe représente les données importées à partir d'un fichier. Si vous ajoutez des fichiers au répertoire, Ormetis Professional Edition actualise automatiquement la vue groupée pour tenir compte des nouveaux fichiers.</p><example>
+            <title>Importer des fichiers à partir d'un répertoire</title>
+            <p>Dans cet exemple, vous voyez un répertoire qui contient des commandes provenant de différents magasins. Chaque fichier est nommé <codeph>&lt;store-location>.txt</codeph>, par exemple <codeph>Paris.txt</codeph>. Chaque fichier comprend quatre colonnes : <codeph>Revendeur</codeph>, <codeph>Livraison</codeph>, <codeph>Quantité</codeph> et <codeph>Produit</codeph>.</p>
+            <p>Lorsque vous sélectionnez le répertoire, la vue groupée suivante apparaît dans le panneau <uicontrol>Vue</uicontrol>.</p><image href="images/vw_grouped_view_from_folder.gif" outputclass="" scale="70"/>
+            <p>Les groupes sont dérivés des noms des fichiers dans le répertoire. Vous ajoutez un nouveau fichier, <codeph>Marseille.txt</codeph>, au répertoire. Ce fichier contient des données similaires pour le point de vente de Marseille. Ormetis Professional Edition actualise automatiquement la vue groupée en y ajoutant un groupe additionnel pour Marseille.</p><image href="images/vw_grouped_view_after_file_add.gif" scale="70"/>
+        </example>
+    </conbody>
+</concept>

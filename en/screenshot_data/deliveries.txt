@@ -1,0 +1,4 @@
+Delivery,Quantity,Product
+02/27/2009,150,Jacket
+02/28/2009,100,Shirt
+03/01/2009,124,Trousers

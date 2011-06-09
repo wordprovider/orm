@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_sort_data" xml:lang="fr-FR">
+    <title>Pour trier des données</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>données<indexterm>trier</indexterm></indexterm><indexterm>trier de données</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Sélectionnez la colonne que vous souhaitez utiliser pour trier les données. (Vous pouvez aussi sélectionner le contrôle de groupage dans une vue groupée pour appliquer le tri aux valeurs de groupage.)</cmd>
+            </step>
+            <step>
+                <cmd>Cliquez <menucascade><uicontrol>Données</uicontrol><uicontrol>Trier &amp; Filtrer</uicontrol><uicontrol>Trier A-Z</uicontrol></menucascade> pour trier les données par ordre ascendant ou <uicontrol>Trier Z-A</uicontrol> pour trier les données dans l'ordre descendant.</cmd>
+                <info>
+                    <note>Si vous avez sélectionné le contrôle de groupage dans une vue groupée, Ormetis Professional Edition applique le tri aux valeurs dans le contrôle de groupage. Si vous avez sélectionné une colonne dans la vue, Ormetis Professional Edition applique le tri à la colonne.</note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

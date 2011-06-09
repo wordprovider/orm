@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd">
+<concept id="ope_concept_defining_headers" xml:lang="en-us">
+    <title>Defining headers</title>
+    <conbody>
+        <p>You can move data between column and row headers in four ways. </p>
+        <simpletable>
+            <sthead>
+                <stentry>Operation</stentry>
+                <stentry>Description</stentry>
+            </sthead>
+            <strow>
+                <stentry>Define columns as headers</stentry>
+                <stentry>You select a column and move its values to the corresponding row headers</stentry>
+            </strow>
+            <strow>
+                <stentry>Define rows as headers</stentry>
+                <stentry>You select a row and move its values to the corresponding column headers</stentry>
+            </strow>
+            <strow>
+                <stentry>Define headers as columns</stentry>
+                <stentry>You move the values in the row headers into the view data</stentry>
+            </strow>
+            <strow>
+                <stentry>Define headers as rows</stentry>
+                <stentry>You move the values in the column headers into the view data</stentry>
+            </strow>
+        </simpletable>
+    </conbody>
+</concept>

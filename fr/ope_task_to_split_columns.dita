@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_split_columns" xml:lang="fr-FR">
+    <title>Pour découper des colonnes sur des caractères</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>colonnes<indexterm>découper sur caractères</indexterm></indexterm><indexterm>découper des colonnes sur des caractères</indexterm><indexterm>caractères<indexterm>découper des colonnes sur</indexterm></indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Sélectionnez la colonne dont vous voulez découper les données en colonnes distinctes.</cmd>
+            </step>
+            <step>
+                <cmd>Dans l'élément de menu <menucascade><uicontrol>Accueil</uicontrol><uicontrol>Format</uicontrol><uicontrol>Découper sur</uicontrol>
+                    </menucascade>, cliquez sur <uicontrol>Tab</uicontrol> pour découper les données sur une tabulation, <uicontrol>Espace</uicontrol> pour découper les données sur les espaces ou saisissez le caractère de séparation dans le champ approprié.</cmd>
+                <info>Vous pouvez spécifier plus d'un caractère de séparation. Si vous sélectionnez, par exemple, <uicontrol>Tab</uicontrol> et <uicontrol>Espace</uicontrol> et que vous saisissez ";" dans le champ, Ormetis Professional Edition découpe les données dans une nouvelle colonne à chaque tabulation, espace ou ";".</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

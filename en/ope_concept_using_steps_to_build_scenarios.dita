@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd">
+<concept id="conceptId">
+    <title>Scenarios and steps</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>steps<indexterm>building scenarios with</indexterm></indexterm><indexterm>scenarios<indexterm>and steps</indexterm></indexterm></keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>Steps are Ormetis Professional Edition's way of visualizing and ordering the actions you perform in a data transformation scenario. Whenever you perform an action, a corresponding step appears in the <uicontrol>Scenario</uicontrol> pane on the right of Ormetis Professional Edition. Steps display from top to bottom in the <uicontrol>Scenario</uicontrol> pane.</p>
+        <p>Steps represent an action performed on one or more views or on an external file to output a new view. The text of the step has three elements: the name of the output view (<systemoutput>View#n</systemoutput> by default, or the name of an external file), the action, and the input views or file. For example, if you sort the data in ascending order on the Ticker column a view called <systemoutput>Companies</systemoutput>, the text of the step is <systemoutput>View#n Sort AZ Companies</systemoutput>. (You can rename the default view name by double-clicking it in the step, then typing the new name.)</p>
+        <p>When you select a step in the <uicontrol>Scenario</uicontrol> pane, you see a snapshot of the scenario in the <uicontrol>View</uicontrol> pane at the point in the scenario corresponding to the step. For example, if the step <systemoutput>Sales Import File Sales.txt</systemoutput> is the first step in a scenario, you see the Sales view only in the <uicontrol>View</uicontrol> pane when you select the step.</p>
+    </conbody>
+</concept>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_keep_rows" xml:lang="fr-FR">
+    <title>Pour conserver les lignes</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>lignes<indexterm>conserver</indexterm></indexterm><indexterm>conserver les lignes</indexterm><indexterm>valeurs de colonne<indexterm>conserver les lignes sur la base de</indexterm></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Sélectionnez les cellules qui contiennent les valeurs que vous souhaitez utiliser pour conserver les lignes.</cmd>
+            </step>
+            <step>
+                <cmd>Cliquez <menucascade><uicontrol>Données</uicontrol><uicontrol>Trier &amp; Filtrer</uicontrol><uicontrol>Conserver les lignes</uicontrol></menucascade>.</cmd>
+                <stepresult>
+                    <p>Ormetis Professional Edition supprime toutes les lignes où les colonnes qui contiennent les cellules sélectionnées n'ont pas les valeurs des cellules sélectionnées.</p>
+                    <p>Si vous avez, par exemple, sélectionné les cellules de la colonne Ville comprenant les valeurs "Marseille" et "Lyon", Ormetis Professional Edition supprime toutes les lignes où la valeur de Ville n'est pas "Marseille" ou "Lyon".</p>
+                </stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

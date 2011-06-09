@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_merge_columns" xml:lang="en-us">
+    <title>To merge columns</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>columns<indexterm>merging</indexterm></indexterm><indexterm>merging columns</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Select the columns you want to merge.</cmd>
+            </step>
+            <step>
+                <cmd>In the <menucascade><uicontrol>Home</uicontrol><uicontrol>Format</uicontrol><uicontrol>Merge With</uicontrol></menucascade> menu item, select <uicontrol>Tab</uicontrol> to merge the columns with tab characters, or click <uicontrol>String</uicontrol> and type the string used to merge the columns.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Merge With</uicontrol>.</cmd>
+                <stepresult>Ormetis Professional Edition merges the columns into a single column with values corresponding to the original column values. These values are separated by the string you specified.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

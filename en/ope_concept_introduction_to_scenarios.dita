@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd">
+<concept id="ope_concept_introduction_to_scenarios" xml:lang="en-us">
+    <title>Introduction to scenarios</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>Scenario pane<indexterm>how steps are displayed in</indexterm></indexterm><indexterm>scenarios<indexterm>saving</indexterm></indexterm><indexterm>files<indexterm>importing</indexterm></indexterm><indexterm>importing files</indexterm><indexterm>steps<indexterm>components of</indexterm></indexterm></keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>You transform data by building data transformation scenarios. Scenarios contain all the actions you perform to transform your data. These actions appear as steps, listed from top to bottom in the <uicontrol>Scenario</uicontrol> pane at the right of the Ormetis Professional Edition interface. Selecting a step allows you to view a snapshot of the scenario at the point represented by the step.</p>
+        <p>A scenario usually consists of data import steps, followed by data transformation steps, followed by data export steps to write your transformed data to external files in your target format. A scenario provides a repeatable chain of actions for transforming your data, and updates its exported data in response to changes in your source data. </p>
+    </conbody>
+</concept>

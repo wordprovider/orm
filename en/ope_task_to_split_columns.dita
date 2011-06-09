@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_split_columns" xml:lang="en-us">
+    <title>To split columns on characters</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>columns<indexterm>splitting on characters</indexterm></indexterm><indexterm>splitting columns on characters</indexterm><indexterm>characters<indexterm>splitting columns on</indexterm></indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Select the column whose data you want to split into separate columns.</cmd>
+            </step>
+            <step>
+                <cmd>In the <menucascade><uicontrol>Home</uicontrol><uicontrol>Format</uicontrol><uicontrol>Split On</uicontrol>
+                    </menucascade> menu item, click <uicontrol>Tab</uicontrol> to split the data on tab characters, <uicontrol>Space</uicontrol> to split the data on spaces, or type the splitting character in the box.</cmd>
+                <info>You can specify more than one splitting character. For example, if you select <uicontrol>Tab</uicontrol> and <uicontrol>Space</uicontrol> and you type ";" in the box, Ormetis Professional edition splits the data into a new column at every tab, space or ";" character.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

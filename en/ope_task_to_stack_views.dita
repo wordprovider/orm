@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_stack_views" xml:lang="en-us">
+    <title>To stack views</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>views<indexterm>stacking</indexterm></indexterm><indexterm>stacking views</indexterm><indexterm>combining views<indexterm>by stacking</indexterm></indexterm><indexterm>regional settings<indexterm>and stacking views</indexterm></indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Select the first view.</cmd>
+            </step>
+            <step>
+                <cmd>Hold down the Control key.</cmd>
+            </step>
+            <step>
+                <cmd>Select the second view.</cmd>
+            </step>
+            <step>
+                <cmd>Select <menucascade><uicontrol>Data</uicontrol><uicontrol>Combine</uicontrol><uicontrol>Stack</uicontrol></menucascade> from the menu.</cmd>
+                <info>
+                    <note>You can also stack views by dragging and dropping the lower view over the upper view.</note>
+                </info>
+                <stepresult>
+                    <ul>
+                        <li>The upper view in the <uicontrol>View</uicontrol> pane is stacked on top of the lower view.</li>
+                        <li>The regional settings (for example, the date format) from the upper view are applied to the combined view.</li>
+                        <li>The combined view contains one column for every column in the upper and lower views. If a column has the same name in both views, it appears as a single column in the combined view. If a column did not exist in all the original views, its values appear blank in the rows corresponding to the views where it did not exist.</li>
+                        <li>A step, <systemoutput>Stack &lt;upper-view> on &lt;lower-view></systemoutput> appears in the <uicontrol>Steps</uicontrol> pane.</li>
+                    </ul>
+                </stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

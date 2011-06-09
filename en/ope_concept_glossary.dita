@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd">
+<concept id="ope_concept_glossary" xml:lang="en-us">
+    <title>Glossary</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>glossary</indexterm><indexterm>attaching views<indexterm>defined</indexterm></indexterm><indexterm>combining views<indexterm>defined</indexterm></indexterm><indexterm>exporting data<indexterm>defined</indexterm></indexterm><indexterm>grouped views<indexterm>defined</indexterm></indexterm><indexterm>grouping<indexterm>defined</indexterm></indexterm><indexterm>grouping control<indexterm>defined</indexterm></indexterm><indexterm>importing data<indexterm>defined</indexterm></indexterm><indexterm>scenarios<indexterm>defined</indexterm></indexterm><indexterm>slicing<indexterm>defined</indexterm></indexterm><indexterm>stacking views<indexterm>defined</indexterm></indexterm><indexterm>steps<indexterm>defined</indexterm></indexterm><indexterm>snapshots<indexterm>defined</indexterm></indexterm><indexterm>views<indexterm>defined</indexterm></indexterm></keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <simpletable>
+            <sthead>
+                <stentry>Term</stentry>
+                <stentry>Definition</stentry>
+            </sthead>
+            <strow>
+                <stentry>Attaching</stentry>
+                <stentry>Placing one view alongside another to create a new view. The resulting view contains all data from both views even when there is no matching value in a common column.</stentry>
+            </strow>
+            <strow>
+                <stentry>Combining</stentry>
+                <stentry>Creating a new view by attaching or matching existing views.</stentry>
+            </strow>
+            <strow>
+                <stentry>Exporting</stentry>
+                <stentry>Writing data from a view to an external file, for example a CSV or Excel file.</stentry>
+            </strow>
+            <strow>
+                <stentry>Grouped view</stentry>
+                <stentry>A view in which the data has been grouped on the values in a column, or sliced on sets of unique values in a column. Groups appear in a grouping control to the left of the view.</stentry>
+            </strow>
+            <strow>
+                <stentry>Grouping</stentry>
+                <stentry>Dividing the data in a view into different groups based on the values in one column. All rows where the grouping column has the same value form one group.</stentry>
+            </strow>
+            <strow>
+                <stentry>Grouping control</stentry>
+                <stentry>A control that displays the grouping values in a grouped view.</stentry>
+            </strow>
+            <strow>
+                <stentry>Importing</stentry>
+                <stentry>Creating a view by importing data from an external file, for example a CSV or Excel file.</stentry>
+            </strow>
+            <strow>
+                <stentry>Matching</stentry>
+                <stentry>Placing one view alongside another to create a new view. The resulting views contains only data from both rows which has a matching value in a matching column.</stentry>
+            </strow>
+            <strow>
+                <stentry>Scenario</stentry>
+                <stentry>A series of steps that make up a data transformation scenario.</stentry>
+            </strow>
+            <strow>
+                <stentry>Slicing</stentry>
+                <stentry>Dividing the data in a view into different groups based on sets of unique values in a column.</stentry>
+            </strow>
+            <strow>
+                <stentry>Stacking</stentry>
+                <stentry>Placing one view above another to create a new view.</stentry>
+            </strow>
+            <strow>
+                <stentry>Step</stentry>
+                <stentry>One stage in a data transformation scenario. A step performs an action on zero, one or two views and outputs a new view.</stentry>
+            </strow>
+            <strow>
+                <stentry>Snapshot</stentry>
+                <stentry>An intermediate stage in a data transformation scenario, viewable by clicking on the step corresponding to that stage.</stentry>
+            </strow>
+            <strow>
+                <stentry>View</stentry>
+                <stentry>A logical organization of data in a data transformation scenario.</stentry>
+            </strow>
+        </simpletable>
+    </conbody>
+</concept>

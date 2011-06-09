@@ -1,0 +1,8 @@
+Revendeur,The Clothes Store
+Produit,Jacket
+Quantité,100
+Livraison,2/12/2009
+Revendeur,The Clothes Store
+Produit,Shirt
+Quantité,150
+Livraison,1/12/2009

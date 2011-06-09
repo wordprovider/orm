@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_attach_views" xml:lang="en-us">
+    <title>To attach views</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>views<indexterm>attaching</indexterm></indexterm><indexterm>attaching views</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Select the first view.</cmd>
+            </step>
+            <step>
+                <cmd>Hold down the Control key.</cmd>
+            </step>
+            <step>
+                <cmd>Select the second view.</cmd>
+            </step>
+            <step>
+                <cmd>Click <menucascade><uicontrol>Data</uicontrol><uicontrol>Combine</uicontrol><uicontrol>Attach</uicontrol></menucascade>.</cmd>
+                <stepresult>Ormetis Professional Edition attaches the views and matches the data on common columns where possible.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

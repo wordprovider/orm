@@ -1,0 +1,5 @@
+Product,Delivery,Quantity
+Chemise,2/10/2009,550
+Bermuda,2/15/2009,210
+Chemise,2/20/2009,345
+Pull,2/25/2009,470

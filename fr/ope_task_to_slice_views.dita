@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_slice_views" xml:lang="fr-FR">
+    <title>Pour découper des vues</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>vues<indexterm>découper</indexterm></indexterm><indexterm>découper des vues</indexterm><indexterm>données<indexterm>découper</indexterm></indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Sélectionnez la colonne utilisée pour le découpage des données.</cmd>
+            </step>
+            <step>
+                <cmd>Cliquez <menucascade><uicontrol>Données</uicontrol><uicontrol>Organiser</uicontrol><uicontrol>Découper</uicontrol></menucascade>.</cmd>
+                <stepresult>Ormetis Professional Edition découpe la vue selon les ensembles de valeurs uniques dans la colonne de découpage. Les groupes apparaissent comme <systemoutput>Groupe &lt;numéro de groupe></systemoutput> dans le contrôle de groupage.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

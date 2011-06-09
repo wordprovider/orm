@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_merge_columns" xml:lang="fr-FR">
+    <title>Pour fusionner des colonnes</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>colonnes<indexterm>fusionner</indexterm></indexterm><indexterm>fusionner des colonnes</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Sélectionnez les colonnes que vous souhaitez fusionner.</cmd>
+            </step>
+            <step>
+                <cmd>Dans l'élément de menu <menucascade><uicontrol>Accueil</uicontrol><uicontrol>Format</uicontrol><uicontrol>Fusionner avec</uicontrol></menucascade>, sélectionnez <uicontrol>Tab</uicontrol> pour fusionner les colonnes avec insertion de tabulations ou cliquez <uicontrol>Chaîne</uicontrol> et saisissez la chaîne utilisée pour fusionner les colonnes.</cmd>
+            </step>
+            <step>
+                <cmd>Cliquez <uicontrol>Fusionner avec</uicontrol>.</cmd>
+                <stepresult>Ormetis Professional Edition fusionne les colonnes en une colonne unique aux valeurs correspondant aux valeurs de colonne originales. Ces valeurs sont séparées par la chaîne que vous avez spécifiée.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

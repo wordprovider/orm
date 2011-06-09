@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_delete_columns_rows" xml:lang="fr-FR">
+    <title>Pour supprimer des colonnes et des lignes</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>colonnes<indexterm>supprimer</indexterm></indexterm><indexterm>lignes<indexterm>supprimer</indexterm></indexterm><indexterm>vues<indexterm>supprimer des colonnes de</indexterm></indexterm><indexterm>vues<indexterm>supprimer des lignes de</indexterm></indexterm><indexterm>suppression des colonnes</indexterm><indexterm>suppression de lignes</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Sélectionnez les en-têtes de colonne des colonnes que vous souhaitez supprimer et les numéros de ligne des lignes que vous souhaitez supprimer.</cmd>
+                <info>
+                    <note>Vous pouvez ne sélectionner que des en-têtes de colonne ou des numéros de ligne si vous souhaitez ne supprimer que des colonnes ou des lignes.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Cliquez <menucascade><uicontrol>Accueil</uicontrol><uicontrol>Colonnes &amp; Lignes</uicontrol><uicontrol>Supprimer</uicontrol></menucascade>.</cmd>
+                <stepresult>Ormetis Professional Edition supprime de la vue les colonnes et les lignes que vous avez sélectionnées.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

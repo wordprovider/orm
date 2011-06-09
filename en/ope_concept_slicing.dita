@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd">
+<concept id="ope_concept_slicing" xml:lang="en-us">
+    <title>Slicing views</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>views<indexterm>slicing</indexterm></indexterm><indexterm>slicing views</indexterm><indexterm>data<indexterm>slicing</indexterm></indexterm></keywords>
+        </metadata>
+    </prolog>
+    <conbody><p>You use slicing to group data which is stored horizontally rather than vertically. For example, in the following view, the first column describes the data, and the second column contains the data values.</p><image href="images/vw_slice_before.gif" scale="70"/><p>If you slice the data on the first column, Ormetis Professional Edition groups it into two groups by identifying repeated values in the slicing column. In this example, the value "Reseller" repeats on row 5, causing Ormetis Professional Edition to create a new group starting on that row. The data in the group is sliced as shown below.</p><image href="images/vw_slice_after.gif" scale="70"/><p>
+            <note>Slicing is typically one of the steps you perform when transforming a horizontal view of data to a vertical view.</note>
+        </p></conbody>
+</concept>

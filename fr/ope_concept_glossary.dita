@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd">
+<concept id="ope_concept_glossary" xml:lang="fr-FR">
+    <title>Glossaire</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>glossaire</indexterm><indexterm>accoler des vues<indexterm>défini</indexterm></indexterm><indexterm>combiner des vues<indexterm>défini</indexterm></indexterm><indexterm>exporter des données<indexterm>défini</indexterm></indexterm><indexterm>vues groupées<indexterm>défini</indexterm></indexterm><indexterm>grouper<indexterm>défini</indexterm></indexterm><indexterm>contrôle de groupage<indexterm>défini</indexterm></indexterm><indexterm>importer des données<indexterm>défini</indexterm></indexterm><indexterm>scénarios<indexterm>défini</indexterm></indexterm><indexterm>découpage<indexterm>défini</indexterm></indexterm><indexterm>empiler des vues<indexterm>défini</indexterm></indexterm><indexterm>étapes<indexterm>défini</indexterm></indexterm><indexterm>instantanés<indexterm>défini</indexterm></indexterm><indexterm>vues<indexterm>défini</indexterm></indexterm></keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <simpletable>
+            <sthead>
+                <stentry>Terme</stentry>
+                <stentry>Définition</stentry>
+            </sthead>
+            <strow>
+                <stentry>Accoler</stentry>
+                <stentry>Placer une vue à côté d'une autre pour créer une nouvelle vue. La vue qui en résulte contient toutes les données des deux vues, même lorsqu'il n'y a aucune valeur correspondante dans la colonne commune.</stentry>
+            </strow>
+            <strow>
+                <stentry>Combiner</stentry>
+                <stentry>Créer une nouvelle vue en accolant ou en faisant correspondre des vues existantes.</stentry>
+            </strow>
+            <strow>
+                <stentry>Exporter</stentry>
+                <stentry>Transférer des données d'une vue vers un fichier externe, par exemple un fichier CSV ou Excel.</stentry>
+            </strow>
+            <strow>
+                <stentry>Vues groupées</stentry>
+                <stentry>Une vue dans laquelle les données ont été groupées par rapport aux valeurs d'une colonne, ou découpées en ensembles de valeurs uniques dans une colonne. Les groupes apparaissent dans un contrôle de groupage, à gauche de la vue.</stentry>
+            </strow>
+            <strow>
+                <stentry>Grouper</stentry>
+                <stentry>Diviser les données d'une vue en différents groupes sur la base des valeurs d'une colonne. All rows where the grouping column has the same value form one group.</stentry>
+            </strow>
+            <strow>
+                <stentry>Contrôle de groupage</stentry>
+                <stentry>Un contrôle qui affiche les valeurs de groupage dans une vue groupée.</stentry>
+            </strow>
+            <strow>
+                <stentry>Importer</stentry>
+                <stentry>Créer une vue en important des données à partir d'un fichier externe, par exemple un fichier CSV ou Excel.</stentry>
+            </strow>
+            <strow>
+                <stentry>Faire correspondre</stentry>
+                <stentry>Placer une vue à côté d'une autre pour créer une nouvelle vue. La vue qui en résulte contient seulement les données des deux vues qui ont une valeur correspondante dans une colonne correspondante.</stentry>
+            </strow>
+            <strow>
+                <stentry>Scénario</stentry>
+                <stentry>Une série d'étapes qui constituent un scénario de transformation des données.</stentry>
+            </strow>
+            <strow>
+                <stentry>Découpage</stentry>
+                <stentry>Diviser les données d'une vue en différents groupes sur la base d'ensembles de valeurs uniques dans une colonne.</stentry>
+            </strow>
+            <strow>
+                <stentry>Empiler</stentry>
+                <stentry>Placer une vue au-dessus d'une autre pour créer une nouvelle vue.</stentry>
+            </strow>
+            <strow>
+                <stentry>Etape</stentry>
+                <stentry>Une phase d'un scénario de transformation des données. Une étape effectue une action sur zéro, une ou deux vues et génère une nouvelle vue.</stentry>
+            </strow>
+            <strow>
+                <stentry>Instantané</stentry>
+                <stentry>Une phase intermédiaire dans un scénario de transformation des données, visible en cliquant sur l'étape qui correspond à cette phase.</stentry>
+            </strow>
+            <strow>
+                <stentry>Vue</stentry>
+                <stentry>Une organisation logique de données dans un scénario de transformation des données.</stentry>
+            </strow>
+        </simpletable>
+    </conbody>
+</concept>

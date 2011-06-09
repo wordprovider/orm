@@ -1,0 +1,6 @@
+Reseller;Delivery;Quantity;Product
+Sears;02/12/2009;455;Jacket
+Sears;02/14/2009;312;Shirt
+Sears;02/16/2009;210;Sweater
+Sears;02/20/2009;230;Shirt
+Sears;02/22/2009;500;Trousers

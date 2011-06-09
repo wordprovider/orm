@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_save_scenarios" xml:lang="fr-FR">
+    <title>Pour enregistrer des scénarios</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>scénarios<indexterm>enregistrer</indexterm></indexterm><indexterm>enregistrer des scénarios</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Cliquez sur le bouton <uicontrol>Ormetis</uicontrol> <image href="images/btn_ormetis.gif" scale="70"/>, puis cliquez sur <uicontrol>Enregistrer</uicontrol> ou <uicontrol>Enregistrer sous</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Si vous avez cliqué sur <uicontrol>Enregistrer sous</uicontrol> ou si vous enregistrer le scénario pour la première fois, saisissez le nom du scénario puis cliquez sur <uicontrol>OK</uicontrol>.</cmd>
+                <info>
+                    <note>Ormetis Professional Edition enregistre les scénarios en leur donnant l'extension de fichier ORM.</note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

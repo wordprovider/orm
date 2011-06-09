@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_change_regional_settings" xml:lang="fr-FR">
+    <title>Pour modifier les paramètres régionaux de vues</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>vues<indexterm>changer les paramètres régionaux de</indexterm></indexterm><indexterm>paramètres régionaux<indexterm>changer les vues</indexterm></indexterm><indexterm>modifier les paramètres régionaux</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Sélectionnez la vie dont vous souhaitez modifier les paramètres régionaux dans le panneau <uicontrol>Vue</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Cliquez <menucascade><uicontrol>Accueil</uicontrol><uicontrol>Local</uicontrol><uicontrol>Paramètres régionaux</uicontrol></menucascade> et sélectionnez les paramètres régionaux dans la liste.</cmd>
+                <info>
+                    <note>Lorsque vous empilez des vues, les paramètres régionaux de la vue supérieure s'appliquent à la vue empilée.</note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

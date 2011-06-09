@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_to_open_scenarios" xml:lang="en-us">
+    <title>Task title</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>scenarios<indexterm>opening</indexterm></indexterm><indexterm>opening
+                    scenarios</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Task step.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

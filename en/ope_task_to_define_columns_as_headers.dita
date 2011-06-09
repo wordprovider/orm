@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_define_columns_as_headers" xml:lang="en-us">
+    <title>To define columns as headers</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>columns<indexterm>defining as headers</indexterm></indexterm><indexterm>headers<indexterm>defining columns as</indexterm></indexterm><indexterm>defining columns as headers</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Select the columns you want to define as a row headers.</cmd>
+            </step>
+            <step>
+                <cmd>Click <menucascade><uicontrol>Home</uicontrol><uicontrol>Headers</uicontrol><uicontrol>Columns as Header</uicontrol></menucascade>.</cmd>
+                <stepresult>Ormetis Professional Edition moves the values in the columns you selected to the row headers. (The row headers are the vertical headers on the left of the view that normally contain the row numbers.)</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

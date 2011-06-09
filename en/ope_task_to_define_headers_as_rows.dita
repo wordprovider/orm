@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_define_headers_as_rows" xml:lang="en-us">
+    <title>To define headers as rows</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>headers<indexterm>defining as rows</indexterm></indexterm><indexterm>rows<indexterm>defining headers as</indexterm></indexterm><indexterm>defining rows as columns</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Select the column headers.</cmd>
+            </step>
+            <step>
+                <cmd>Click <menucascade><uicontrol>Home</uicontrol><uicontrol>Headers</uicontrol><uicontrol>Header as Row</uicontrol></menucascade>.</cmd>
+                <stepresult>The data in the column headers becomes the data in a row.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

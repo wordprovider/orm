@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/map.dtd">
+<map title="Ormetis Professional Edition User's Guide" xml:lang="en-us">
+    <reltable>
+        <relheader>
+            <relcolspec type="concept"/>
+            <relcolspec type="task"/>
+        </relheader>
+        <!-- Introductory topics -->
+        <relrow>
+            <relcell>
+                <topicgroup collection-type="family">
+                    <topicref href="ope_concept_what_is_ormetis.dita"/>
+                    <topicref href="ope_concept_how_do_you_work_with_ormetis.dita"/>
+                </topicgroup>
+            </relcell>
+        </relrow>
+        <!-- Attaching and matching -->
+        <relrow>
+            <relcell>
+                <topicgroup collection-type="family">
+                    <topicref href="ope_concept_attaching_views.dita"/>
+                    <topicref href="ope_concept_matching_views.dita"/>
+                </topicgroup>
+            </relcell>
+            <relcell>
+                <topicgroup collection-type="family">
+                    <topicref href="ope_task_to_attach_views.dita"/>
+                    <topicref href="ope_task_to_match_views.dita"/>
+                </topicgroup>
+            </relcell>
+        </relrow>
+        <!-- Regional settings and related topics -->
+        <relrow>
+            <relcell>
+                <topicref href="ope_concept_stacking_views.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="ope_task_to_change_regional_settings.dita"/>
+            </relcell>
+        </relrow>
+        <!-- Importing and grouping -->
+        <relrow>
+            <relcell>
+                <topicref href="ope_concept_grouping.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="ope_task_to_import_files.dita"/>
+                <topicref href="ope_task_to_import_the_files_from_a_folder.dita"/>
+            </relcell>
+        </relrow>
+        <!-- Scenarios and steps -->
+        <relrow>
+            <relcell>
+                <topicgroup collection-type="family">
+                    <topicref href="ope_concept_introduction_to_scenarios.dita"/>
+                    <topicref href="ope_concept_scenarios_and_steps.dita"/>
+                </topicgroup>
+            </relcell>
+        </relrow>
+        <!--Selection, scope and related topics -->
+        <relrow>
+            <relcell>
+                <topicgroup collection-type="family">
+                    <topicref href="ope_concept_grouping.dita"/>
+                    <topicref href="ope_concept_selection_scope.dita"/>
+                </topicgroup>
+            </relcell>
+            <relcell>
+                <topicgroup>
+                    <topicref href="ope_task_to_replace_data.dita"/>
+                    <topicref href="ope_task_to_ungroup_views.dita"/>
+                </topicgroup>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell/>
+            <relcell>
+                <topicgroup collection-type="family">
+                    <topicref href="ope_task_to_remove_rows.dita"/>
+                    <topicref href="ope_task_to_keep_rows.dita"/>
+                </topicgroup>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="ope_concept_importing_files_from_folder.dita"/>
+            </relcell>
+            <relcell>
+                <topicgroup collection-type="family">
+                    <topicref href="ope_task_to_import_files.dita"/>
+                    <topicref href="ope_task_to_import_the_files_from_a_folder.dita"/>
+                </topicgroup>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell/>
+            <relcell>
+                <topicgroup collection-type="family">
+                    <topicref href="ope_task_to_merge_columns.dita"/>
+                    <topicref href="ope_task_to_split_columns.dita"/>
+                    <topicref href="ope_task_to_split_columns_at_position.dita"/>
+                </topicgroup>
+            </relcell>
+        </relrow>
+        <!-- Link slicing concepts and tasks to examples -->
+        <relrow>
+            <relcell>
+                <topicgroup collection-type="family">
+                    <topicref href="ope_concept_slicing.dita"/>
+                    <topicref href="ope_concept_horizontal_vertical_transform.dita"/>
+                </topicgroup>
+            </relcell>
+            <relcell>
+                <topicref href="ope_task_to_slice_views.dita"/>
+            </relcell>
+        </relrow>
+        <!-- Link rotate task to examples -->
+        <relrow>
+            <relcell>
+                <topicref href="ope_concept_horizontal_vertical_transform.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="ope_task_to_rotate_views.dita"/>
+            </relcell>
+        </relrow>
+        <!-- Link row-as-header task to examples -->
+        <relrow>
+            <relcell>
+                <topicref href="ope_concept_horizontal_vertical_transform.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="ope_task_to_define_rows_as_headers.dita"/>
+            </relcell>
+        </relrow>
+        <!-- Link ungroup task to examples -->
+        <relrow>
+            <relcell>
+                <topicref href="ope_concept_horizontal_vertical_transform.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="ope_task_to_ungroup_views.dita"/>
+            </relcell>
+        </relrow>
+        <!-- Link delete column to examples -->
+        <relrow>
+            <relcell>
+                <topicref href="ope_concept_horizontal_vertical_transform.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="ope_task_to_delete_columns_rows.dita"/>
+            </relcell>
+        </relrow>
+        <!-- Link flip columns to examples -->
+        <relrow>
+            <relcell>
+                <topicref href="ope_concept_horizontal_vertical_transform.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="ope_task_to_flip_rows_columns.dita"/>
+            </relcell>
+        </relrow>
+    </reltable>
+    <topicref href="ope_concept_legal.dita"/>
+    <topichead navtitle="Introducing Ormetis Professional Edition">
+        <topicref href="ope_concept_what_is_ormetis.dita"/>
+        <topicref href="ope_concept_how_do_you_work_with_ormetis.dita"/>
+    </topichead>
+    <topichead navtitle="Working with Ormetis Professional Edition">
+        <topicref href="ope_concept_selection_scope.dita"/>
+        <topichead navtitle="Building scenarios">
+            <topicref href="ope_concept_introduction_to_scenarios.dita">
+                <topicref href="ope_task_to_create_scenarios.dita"/>
+                <topicref href="ope_task_to_open_scenarios.dita"/>
+                <topicref href="ope_task_to_save_scenarios.dita"/>
+            </topicref>
+            <topicref href="ope_concept_scenarios_and_steps.dita"/>
+            <topichead navtitle="Importing files">
+                <topicref href="ope_task_to_import_files.dita"/>
+                <topicref href="ope_concept_importing_files_from_folder.dita"/>
+                <topicref href="ope_task_to_import_the_files_from_a_folder.dita"/>
+            </topichead>
+        </topichead>
+        <topichead navtitle="Working with views">
+            <topichead navtitle="Managing views">
+                <topicref href="ope_task_to_rename_views.dita"/>
+                <topicref href="ope_task_to_duplicate_views.dita"/>
+                <topicref href="ope_task_to_close_views.dita"/>
+                <topicref href="ope_task_to_change_regional_settings.dita"/>
+                <topichead navtitle="Managing columns and rows">
+                    <topicref href="ope_task_to_rename_columns.dita"/>
+                    <topicref href="ope_task_to_delete_columns_rows.dita"/>
+                    <topicref href="ope_task_to_extract_columns_rows.dita"/>
+                </topichead>
+            </topichead>
+            <topichead navtitle="Combining views">
+                <topicref href="ope_concept_stacking_views.dita">
+                    <topicref href="ope_task_to_stack_views.dita"/>
+                </topicref>
+                <topicref href="ope_concept_matching_views.dita">
+                    <topicref href="ope_task_to_match_views.dita"/>
+                </topicref>
+                <topicref href="ope_concept_attaching_views.dita">
+                    <topicref href="ope_task_to_attach_views.dita"/>
+                </topicref>
+            </topichead>
+        </topichead>
+        <topichead navtitle="Transforming data">
+            <topichead navtitle="Sorting data">
+                <topicref href="ope_task_to_sort_data.dita"/>
+            </topichead>
+            <topicref href="ope_concept_filtering.dita">
+                <topicref href="ope_task_to_keep_rows.dita"/>
+                <topicref href="ope_task_to_remove_rows.dita"/>
+                <topicref href="ope_task_to_remove_duplicate_rows.dita"/>
+                <topicref href="ope_task_to_remove_empty_rows.dita"/>
+            </topicref>
+            <topichead navtitle="Grouping data">
+                <topicref href="ope_concept_grouping.dita">
+                    <topicref href="ope_task_to_group_views.dita"/>
+                </topicref>
+                <topicref href="ope_concept_slicing.dita">
+                    <topicref href="ope_task_to_slice_views.dita"/>
+                </topicref>
+                <topicref href="ope_task_to_ungroup_views.dita"/>
+            </topichead>
+            <topichead navtitle="Merging and splitting columns">
+                <topicref href="ope_task_to_merge_columns.dita"/>
+                <topicref href="ope_task_to_split_columns.dita"/>
+                <topicref href="ope_task_to_split_columns_at_position.dita"/>
+            </topichead>
+            <topicref href="ope_concept_defining_headers.dita">
+                <topicref href="ope_task_to_define_columns_as_headers.dita"/>
+                <topicref href="ope_task_to_define_rows_as_headers.dita"/>
+                <topicref href="ope_task_to_define_headers_as_columns.dita"/>
+                <topicref href="ope_task_to_define_headers_as_rows.dita"/>
+            </topicref>
+            <topichead navtitle="Flipping and rotating data">
+                <topicref href="ope_task_to_flip_rows_columns.dita"/>
+                <topicref href="ope_task_to_rotate_views.dita"/>
+            </topichead>
+            <topichead navtitle="Replacing data in cells">
+                <topicref href="ope_task_to_replace_data.dita"/>
+            </topichead>
+        </topichead>
+        <topichead navtitle="Exporting data">
+            <topicref href="ope_task_to_export_data.dita"/>
+        </topichead>
+    </topichead>
+    <topichead navtitle="Examples of data transformations">
+        <topicref href="ope_concept_horizontal_vertical_transform.dita"/>
+    </topichead>
+    <topicref href="ope_concept_glossary.dita"/>
+</map>

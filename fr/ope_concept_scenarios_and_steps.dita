@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd">
+<concept id="ope_concept_scenarios_and_steps" xml:lang="fr-FR">
+    <title>Etapes et scénarios</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>étapes<indexterm>créer des scénarios avec</indexterm><indexterm>définition de</indexterm></indexterm><indexterm>scénarios<indexterm>et étapes</indexterm></indexterm></keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>Les étapes sont la manière dont Ormetis Professional Edition visualise et classe les actions que vous effectuez dans un scénario de transformation de données. Chaque fois que vous effectuez une action, une étape correspondante apparaît dans le panneau <uicontrol>Scénario</uicontrol>, à droite de l'interface d'Ormetis Professional Edition. Les étapes s'affichent de haut en bas dans le panneau <uicontrol>Scénario</uicontrol>.</p>
+        <p>Vous pouvez aussi travailler avec les étapes dans le panneau <uicontrol>Scénario</uicontrol> pour interagir avec un scénario. Vous pouvez, par exemple, modifier le nom d'une vue en double-cliquant sur son nom dans une étape, puis en saisissant le nouveau nom de la vue.</p>
+        <p>Les étapes représentent une action effectuée sur une ou plusieurs vues existantes ou sur un fichier externe pour générer une nouvelle vue. Le contenu textuel de l'étape se compose de trois éléments : le nom de la vue de sortie (<systemoutput>Vue#n</systemoutput> par défaut, ou le nom d'un fichier externe), l'action et les vues ou le fichier d'entrée. Si vous triez, par exemple, les données en ordre ascendant sur la colonne Ticker dans une vue appelée <systemoutput>Entreprises</systemoutput>, le texte de l'étape est <systemoutput>Vue#n Tri AZ Entreprises</systemoutput>. </p>
+        <p>Lorsque vous sélectionnez une étape dans le panneau <uicontrol>Scénario</uicontrol>, vous voyez un instantané du scénario dans le panneau <uicontrol>Vue</uicontrol>, au point du scénario correspondant à l'étape. Par exemple, si l'étape <systemoutput>Ventes Importer fichier Ventes.txt</systemoutput> est la première étape d'un scénario, vous voyez la vue Ventes dans le panneau <uicontrol>Vue</uicontrol> seulement lorsque vous sélectionnez l'étape.</p>
+        <p>Vous pouvez effectuer des actions sur des vues affichées dans un instantané ou un scénario même si l'étape que vous avez sélectionnée n'est pas l'étape la plus récente. La nouvelle étape correspondant à l'action que vous effectuez apparaît en fin de scénario.</p>
+    </conbody>
+</concept>

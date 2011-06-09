@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_extract_columns_rows" xml:lang="en-us">
+    <title>To extract columns and rows</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>columns<indexterm>extracting</indexterm></indexterm><indexterm>rows<indexterm>extracting</indexterm></indexterm><indexterm>views<indexterm>extracting columns from</indexterm></indexterm><indexterm>views<indexterm>extracting rows from</indexterm></indexterm><indexterm>extracting columns</indexterm><indexterm>extracting rows</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Select the column headers of the columns you want to extract and the row numbers of the rows you want to extract.</cmd>
+                <info>
+                    <note>You can select column headers only or row numbers only if you want to extract columns only or rows only.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Click <menucascade><uicontrol>Home</uicontrol><uicontrol>Columns &amp; Rows</uicontrol><uicontrol>Extract</uicontrol></menucascade>.</cmd>
+                <stepresult>Ormetis Professional Edition deletes all columns and rows other than the ones you selected from the view.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

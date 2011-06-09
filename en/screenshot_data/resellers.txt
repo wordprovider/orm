@@ -1,0 +1,8 @@
+Reseller,The Clothes Store
+Product,Jacket
+Quantity,100
+Delivery,2/12/2009
+Reseller,The Clothes Store
+Product,Shirt
+Quantity,150
+Delivery,1/12/2009

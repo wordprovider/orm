@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd">
+<concept id="ormetis_concept_how_do_you_work_with_ormetis" xml:lang="en-us">
+    <title>How do you work with Ormetis Professional Edition?</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>Ormetis Professional Edition<indexterm>working with</indexterm></indexterm><indexterm>working with Ormetis Professional Edition</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>You import, combine, transform and export data in Ormetis Professional Edition by building a data transformation scenario. A scenario contains views which represent intermediate stages of your data as you move toward your target data format. When you add a step to the scenario, you transform data in an existing view to create a new view which you can further transform with additional steps. You create new views, for example, by grouping, stacking, rotating, sorting or filtering existing views. </p>
+        <p>A data transformation scenario can be complex, containing many steps and views. When you arrive at the view containing your target data format, the final step is to export its data to an external file.</p>
+        <p>You can build scenarios for one-off data transformations. You can also save scenarios, making the whole process of import, combination, transformation and export reusable. Scenarios respond to changes in your source data and even to the addition of new source files by updating the data they output.</p>
+        <p>Data transformation scenarios replace time-consuming and error-prone traditional methods of data manipulation and transformation like copy and paste. They remove the need for programming and IT involvement by making complex, repeatable and flexible data transformations available through a simple user interface to non-technical users. </p>
+    </conbody>
+</concept>

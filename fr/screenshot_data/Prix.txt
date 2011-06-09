@@ -1,0 +1,5 @@
+Produit;Base (Euro);Remise (%);Prix (Euro)
+Bermuda;130,00;-40;78,00
+Chemise;140,00;-40;84,00
+Pull;95,00;-20;76,00
+Pantalon;130,00;-30;91,00

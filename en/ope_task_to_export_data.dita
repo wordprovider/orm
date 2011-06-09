@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_export_data" xml:lang="en-us">
+    <title>To export data from views</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>data<indexterm>exporting from views</indexterm></indexterm><indexterm>exporting data from views</indexterm><indexterm>views<indexterm>exporting data from</indexterm><indexterm>saving in new scenarios</indexterm></indexterm><indexterm>Excel format<indexterm>exporting data in</indexterm></indexterm><indexterm>CSV format<indexterm>exporting data in</indexterm></indexterm><indexterm>scenarios<indexterm>saving views in</indexterm></indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Select the view for data export.</cmd>
+            </step>
+            <step>
+                <cmd>Click <menucascade><uicontrol>Home</uicontrol><uicontrol>Views</uicontrol><uicontrol>Export</uicontrol></menucascade></cmd>
+            </step>
+            <step>
+                <cmd>Select the export format. The export formats are displayed in the table.</cmd>
+                <choicetable>
+                    <chhead>
+                        <choptionhd>Format</choptionhd>
+                        <chdeschd>Description</chdeschd>
+                    </chhead>
+                    <chrow>
+                        <choption>Excel 97-2003</choption>
+                        <chdesc>Ormetis Professional Edition saves the data as an Excel 97-2003 (XLS) workbook. If the view is a grouped view, each group appears as a worksheet.</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>Excel </choption>
+                        <chdesc>Ormetis Professional Edition saves the data as an Excel 2007 (XLSX) workbook. If the view is a grouped view, each group appears as a worksheet.</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>Text </choption>
+                        <chdesc>Ormetis Professional Edition saves the data in text format, with columns separated by semi-colons (;).</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>Ormetis</choption>
+                        <chdesc>Ormetis Professional Edition saves the view as the only view in a new scenario (ORM) file. The view and the scenario have the same name.</chdesc>
+                    </chrow>
+                </choicetable>
+            </step>
+        </steps>
+    </taskbody>
+</task>

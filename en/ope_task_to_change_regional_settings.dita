@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_change_regional_settings" xml:lang="en-us">
+    <title>To change the regional settings of views</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>views<indexterm>changing regional settings of</indexterm></indexterm><indexterm>regional settings<indexterm>changing in views</indexterm></indexterm><indexterm>changing regional settings</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Select the view whose regional settings you want to change in the <uicontrol>View</uicontrol> pane.</cmd>
+            </step>
+            <step>
+                <cmd>Click <menucascade><uicontrol>Home</uicontrol><uicontrol>Locale</uicontrol><uicontrol>Regional Settings</uicontrol></menucascade> and select the locale from the list.</cmd>
+                <info>
+                    <note>When you stack views, the regional settings from the top view apply to the stacked view.</note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

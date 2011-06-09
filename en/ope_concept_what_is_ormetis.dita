@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd">
+<concept id="ormetis_concept_what_is_ormetis" xml:lang="en-us">
+    <title>What can you do with Ormetis Professional Edition?</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>Ormetis Professional Edition<indexterm>overview of</indexterm></indexterm><indexterm>overview of Ormetis Professional Edition</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>Ormetis Professional Edition allows you to import data in different formats and from different sources, combine it, transform it, and export the result in a format of your choice. You can use Ormetis Professional Edition, for example, to import related data from several text files and an Excel spreadsheet. You combine the data on common elements, transform it (for example, by grouping, filtering, rotating or sorting it), then export the result to a different Excel spreadsheet or text file. </p>
+        <p>Ormetis Professional Edition handles the details of data transformation and formatting seamlessly. For example, when you combine data from different sources, Ormetis Professional Edition automatically recognizes if the data uses different date or number formats and applies a common format to the combined data. (You can change this format later if you choose.) Ormetis Professional Edition also recognizes when the first line in a file contains column names, and automatically distinguishes different separator characters in comma-separated values (CSV) files. </p>
+        <p>With Ormetis Professional Edition, you can concentrate on the meaning of your data rather than on its formatting or on the mechanics of transforming it. You can build complex, repeatable and auditable transformation processes without technical knowledge or help from your IT department.</p>
+    </conbody>
+</concept>

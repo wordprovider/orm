@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_match_views" xml:lang="en-us">
+    <title>To match views</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>views<indexterm>matching</indexterm></indexterm><indexterm>matching views</indexterm><indexterm>column values<indexterm>matching views on</indexterm></indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Select the first view you want to match.</cmd>
+            </step>
+            <step>
+                <cmd>Hold down the Control key.</cmd>
+            </step>
+            <step>
+                <cmd>Select the second view you want to match.</cmd>
+            </step>
+            <step>
+                <cmd>Click <menucascade><uicontrol>Data</uicontrol><uicontrol>Combine</uicontrol><uicontrol>Match</uicontrol></menucascade>.</cmd>
+                <stepresult>Ormetis Professional Edition matches the views on common columns.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

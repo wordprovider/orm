@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd">
+<concept id="ormetis_concept_how_do_you_work_with_ormetis" xml:lang="fr-FR">
+    <title>Comment travailler avec Ormetis Professional Edition ?</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>Ormetis Professional Edition<indexterm>travailler avec</indexterm></indexterm><indexterm>travailler avec Ormetis Professional Edition</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>Vous importez, combinez, transformez et exportez des données dans Ormetis Professional Edition en créant un scénario de transformation des données. Un scénario contient des vues qui représentent les phases intermédiaires de vos données à mesure que vous avancez vers votre format de données final. Lorsque vous ajoutez une étape au scénario, vous transformez les données d'une vue existante pour créer une nouvelle vue que vous pouvez, à son tour, transformer par des étapes additionnelles. Vous créez, par exemple, de nouvelles vues en groupant, en tournant, en empilant, en triant ou en filtrant des vues existantes. </p>
+        <p>Un scénario de transformation des données peut s'avérer complexe et contenir de nombreuses étapes et vues. Lorsque vous arrivez à la vue qui contient votre format de données final, l'étape finale consiste à exporter ses données vers un fichier externe.</p>
+        <p>Vous pouvez créer des scénarios pour des transformations de données uniques. Vous pouvez aussi sauvegarder des scénarios, ce qui vous permet de réutiliser le processus intégral d'importation, de combinaison, de transformation et d'exportation. Les scénarios répondent aux changements de vos données source et même à l'adjonction de nouveaux fichiers source en actualisant les données qu'ils génèrent.</p>
+        <p>Les scénarios de transformation de données remplacent les méthodes traditionnelles coûteuses en temps et génératrices d'erreurs de manipulation et de transformation des données telles que le "couper/coller". Ils permettent aussi de se passer de programmation et de ressources informatiques en donnant accès à des transformations de données complexes, récurrentes et flexibles à travers une interface simple, même pour des utilisateurs n'ayant pas de profil technique. </p>
+    </conbody>
+</concept>

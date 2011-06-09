@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_remove_empty_rows" xml:lang="en-us">
+    <title>To remove empty rows</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>rows<indexterm>removing empty</indexterm></indexterm><indexterm>removing empty rows</indexterm><indexterm>empty rows<indexterm>removing</indexterm></indexterm><indexterm>filtering out empty rows</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p>You can remove rows which contain empty values in the columns you select.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Select the columns you want to test for empty values.</cmd>
+            </step>
+            <step>
+                <cmd>Click <menucascade><uicontrol>Data</uicontrol><uicontrol>Sort &amp; Filter</uicontrol><uicontrol>Remove Empty Rows</uicontrol></menucascade>.</cmd>
+                <stepresult>Ormetis Professional Edition removes all rows containing empty values in the selected columns.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

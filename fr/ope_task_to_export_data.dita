@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_export_data" xml:lang="fr-FR">
+    <title>Pour exporter des données à partir des vues</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>données<indexterm>exporter à partir des vues</indexterm></indexterm><indexterm>exportation de données à partir des vues</indexterm><indexterm>vues<indexterm>exportation de données de</indexterm><indexterm>sauvegarder dans de nouveaux scénarios</indexterm></indexterm><indexterm>le format Excel<indexterm>exporter des données vers</indexterm></indexterm><indexterm>le format CSV<indexterm>exporter des données vers</indexterm></indexterm><indexterm>scénarios<indexterm>sauvegarder des vues dans</indexterm></indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Sélectionnez une vue pour l'exportation de données.</cmd>
+            </step>
+            <step>
+                <cmd>Cliquez <menucascade><uicontrol>Accueil</uicontrol><uicontrol>Vues</uicontrol><uicontrol>Exporter</uicontrol></menucascade></cmd>
+            </step>
+            <step>
+                <cmd>Sélectionnez le format d'exportation. Les formats d'exportation apparaissent dans le tableau.</cmd>
+                <choicetable>
+                    <chhead>
+                        <choptionhd>Format</choptionhd>
+                        <chdeschd>Description</chdeschd>
+                    </chhead>
+                    <chrow>
+                        <choption>Excel 97-2003</choption>
+                        <chdesc>Ormetis Professional Edition sauvegarde les données en tant que tableur Excel 97-2003 (XLS). Si la vue est une vue groupée, chaque groupe apparaît sous la forme d'une feuille de calcul.</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>Excel </choption>
+                        <chdesc>Ormetis Professional Edition sauvegarde les données en tant que tableur Excel 2007 (XLSX). Si la vue est une vue groupée, chaque groupe apparaît sous la forme d'une feuille de calcul.</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>Texte </choption>
+                        <chdesc>Ormetis Professional Edition sauvegarde les données au format texte, en séparant les colonnes à l'aide d'un point-virgule (;).</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>Ormetis</choption>
+                        <chdesc>Ormetis Professional Edition sauvegarde la vue en tant que seule vue d'un nouveau fichier (ORM) de scénario. La vue et le scénario ont le même nom.</chdesc>
+                    </chrow>
+                </choicetable>
+            </step>
+        </steps>
+    </taskbody>
+</task>

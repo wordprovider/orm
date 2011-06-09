@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_import_files_from_a_folder" xml:lang="fr-FR">
+    <title>Pour importer des fichiers à partir de répertoires</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>fichiers<indexterm>importer à partir de répertoires</indexterm></indexterm><indexterm>répertoires<indexterm>importer des fichiers à partir de</indexterm></indexterm><indexterm>importation de fichiers à partir de répertoires</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Sélectionnez <menucascade><uicontrol>Accueil</uicontrol><uicontrol>Importer</uicontrol><uicontrol>Répertoire</uicontrol></menucascade>.</cmd>
+            </step>
+            <step>
+                <cmd>Sélectionnez le répertoire qui contient les fichiers que vous souhaitez importer et cliquez sur <uicontrol>OK</uicontrol>.</cmd>
+                <stepresult>Ormetis Professional Edition crée une vue groupée à partir des fichiers que contient le répertoire.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

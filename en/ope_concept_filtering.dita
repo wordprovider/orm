@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd">
+<concept id="ope_concept_filtering_data" xml:lang="en-us">
+    <title>Filtering data</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>views<indexterm>filtering</indexterm></indexterm><indexterm>filtering views</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>You can filter the data in a view by removing rows based on the values in columns. You can also remove rows containing empty or duplicate values. </p>
+    </conbody>
+</concept>

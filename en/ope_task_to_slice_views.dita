@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_slice_views" xml:lang="en-us">
+    <title>To slice views</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>views<indexterm>slicing</indexterm></indexterm><indexterm>slicing views</indexterm><indexterm>data<indexterm>slicing</indexterm></indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Select the column used to slice the data.</cmd>
+            </step>
+            <step>
+                <cmd>Click <menucascade><uicontrol>Data</uicontrol><uicontrol>Organize</uicontrol><uicontrol>Slice</uicontrol></menucascade>.</cmd>
+                <stepresult>Ormetis Professional Edition slices the view according to the sets of unique values in the slicing column. The groups appear as <systemoutput>Group &lt;group-number></systemoutput> in the grouping control.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

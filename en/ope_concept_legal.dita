@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd">
+<concept id="concept-id" xml:lang="en-us">
+    <title outputclass="">Legal notice</title>
+    <conbody>
+        <p> The use of the software, described in this documentation, is governed by the terms of the end user license agreement, which accompanies such software.</p>
+        <p> 1. Copyrights and rights of use:</p>
+        <p>The software and accompanying documentation are the copyrighted work of ORMETIS SAS. Use of the software and the documentation is therefore governed by the terms of the license agreement, which accompanies the software. In the event no license accompanies this documentation, the content of this document is protected by the the French Intellectual Property Code.</p>
+        <p>© 2009 ORMETIS SAS. All rights reserved.</p>
+        <p>This document may not, in whole or in part, be photocopied, reproduced, translated, or reduced to any electronic medium or machine readable form without prior consent, in writing, from ORMETIS SAS.</p>
+        <p>2. Warranties and disclaimers:</p>
+        <p>This documentation is provided “AS IS” without any warranty of any kind, expressed or implied, and therefore, may include technical or typographic errors, omissions or other inaccuracies. ORMETIS SAS assumes no responsibility for errors or omissions in this document.</p>
+        <p>Information in this document is subject to change without notice and does not represent a commitment on the part of ORMETIS SAS.</p>
+        <p>3. Update:</p>
+        <p>This documentation relates to the version of the software, with which it is distributed. Updates of the software may be made without any modification to this document.</p>
+        <p>4. Trademarks:</p>
+        <p>Ormetis, Ormetis logo and Ormetis Professional Edition are either registered trademarks or trademarks of ORMETIS SAS.</p>
+        <p>Microsoft, Excel, Windows and Windows logo are either registered trademarks or trademarks of Microsoft Corporation.</p>
+        <p>All other trademarks are property of their respective owners.</p>
+    </conbody>
+</concept>

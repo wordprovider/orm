@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_match_views" xml:lang="fr-FR">
+    <title>Pour faire correspondre des vues</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>vues<indexterm>faire correspondre</indexterm></indexterm><indexterm>faire correspondre des vues</indexterm><indexterm>valeurs de colonne<indexterm>faire correspondre des vues aux</indexterm></indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Sélectionnez la première vue que vous voulez faire correspondre.</cmd>
+            </step>
+            <step>
+                <cmd>Maintenez la touche "Ctrl" enfoncée.</cmd>
+            </step>
+            <step>
+                <cmd>Sélectionnez la seconde vue que vous souhaitez faire correspondre.</cmd>
+            </step>
+            <step>
+                <cmd>Cliquez <menucascade><uicontrol>Données</uicontrol><uicontrol>Combiner</uicontrol><uicontrol>Faire correspondre</uicontrol></menucascade>.</cmd>
+                <stepresult>Ormetis Professional Edition fait correspondre les vues selon les colonnes communes.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

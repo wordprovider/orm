@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_flip_rows_columns" xml:lang="en-us">
+    <title>To flip row and column data</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>rows<indexterm>flipping</indexterm></indexterm><indexterm>columns<indexterm>flipping</indexterm></indexterm><indexterm>flipping rows and columns</indexterm><indexterm>views<indexterm>reversing column order in</indexterm><indexterm>reversing row order in</indexterm></indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody><context>By flipping row or column data, you reverse the order of the data.</context><steps>
+            <step>
+                <cmd>Select the view whose columns or rows you want to flip.</cmd>
+            </step>
+            <step>
+                <cmd>Click <menucascade><uicontrol>Data</uicontrol><uicontrol>Transform</uicontrol><uicontrol>Flip Columns</uicontrol>
+                    </menucascade> to flip columns or <menucascade><uicontrol>Data</uicontrol><uicontrol>Transform</uicontrol><uicontrol>Flip Rows</uicontrol>
+                    </menucascade> to flip rows.</cmd>
+            </step>
+        </steps><example>
+            <title>Flipping columns and rows</title>
+            <p>A view displays the following data:</p><image href="images/vw_deliveries.gif" scale="70"/>
+            <p>If you flip the columns, the data appears as follows:</p>
+            <image href="images/vw_flipped_cols.gif" scale="70"/>
+            <p>If you flip the rows, the data appears as follows:</p><image href="images/vw_flipped_rows.gif" scale="70"/>
+        </example></taskbody>
+</task>

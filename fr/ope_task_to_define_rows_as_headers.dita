@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_define_rows_as_headers" xml:lang="fr-FR">
+    <title>Pour définir les lignes comme en-têtes</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>lignes<indexterm>définir comme en-têtes</indexterm></indexterm><indexterm>en-têtes<indexterm>définir les lignes comme</indexterm></indexterm><indexterm>définition des lignes comme en-têtes</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Sélectionnez les lignes que vous souhaitez définir comme en-têtes de colonne.</cmd>
+            </step>
+            <step>
+                <cmd>Cliquez <menucascade><uicontrol>Accueil</uicontrol><uicontrol>En-têtes</uicontrol><uicontrol>Lignes comme en-têtes</uicontrol></menucascade>.</cmd>
+                <stepresult>Ormetis Professional déplace les valeurs des lignes que vous avez sélectionnées vers les en-têtes de colonne.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

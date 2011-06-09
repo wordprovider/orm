@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_ungroup_views" xml:lang="fr-FR">
+    <title>Pour dégrouper des vues</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>vues<indexterm>dégrouper</indexterm></indexterm><indexterm>dégrouper des vues</indexterm><indexterm>données<indexterm>dégrouper</indexterm></indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Sélectionnez la vue groupée que vous souhaitez dégrouper.</cmd>
+            </step>
+            <step>
+                <cmd>Cliquez <menucascade><uicontrol>Données</uicontrol><uicontrol>Organiser</uicontrol><uicontrol>Dégrouper</uicontrol></menucascade>.</cmd>
+                <stepresult>Ormetis Professional Edition supprime le contrôle de groupage de la vue et ajoute une colonne de groupe qui contient ses valeurs pour la vue.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

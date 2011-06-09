@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd">
+<concept id="ope_concept_matching_views" xml:lang="fr-FR">
+    <title>Faire correspondre des vues</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>vues<indexterm>faire correspondre</indexterm></indexterm><indexterm>faire correspondre des vues</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <conbody><p>Vous faites correspondre des vues en les plaçant côte à côte pour créer une nouvelle vue basée sur les valeurs dans une colonne commune.</p><example><title>Faire correspondre des vues</title><p>Dans cet exemple, vous faites correspondre deux vues. La première comprend des informations relatives au produit.</p><image href="images/vw_match_left.gif" scale="70"/><p>La seconde vue contient les prix des produits.</p><image href="images/vw_match_right.gif" scale="70"/><p>Lorsque vous faites correspondre les vues, Ormetis Professional Edition reconnaît automatiquement la colonne commune, en l'occurrence Produit.</p><image href="images/vw_matched.gif" scale="50"/><p>Ormetis Professional Edition n'inclut pas la ligne 4 de la vue qui contient les prix, dans la mesure où il n'y a pas de produit correspondant dans la vue qui comprend les produits.</p><note>Ormetis Professional Edition reconnaît les colonnes communes même si le nom de la colonne commune n'est pas identique dans les deux vues, en mettant en correspondance les valeurs de données.</note></example></conbody>
+</concept>

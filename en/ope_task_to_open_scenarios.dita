@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_open_scenarios" xml:lang="en-us">
+    <title>To open scenarios</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>scenarios<indexterm>opening</indexterm></indexterm><indexterm>opening scenarios</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click the <uicontrol>Ormetis</uicontrol> button <image href="images/btn_ormetis.gif" scale="70"/>, then click <uicontrol>Open</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Browse to the scenario you want to open, select it and click <uicontrol>Open</uicontrol>.</cmd>
+                <info>
+                    <note>Scenario files have the ORM file extension.</note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

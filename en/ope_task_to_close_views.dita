@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_close_views" xml:lang="en-us">
+    <title>To close views</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>views<indexterm>closing</indexterm></indexterm><indexterm>closing views</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Select the view you want to close.</cmd>
+            </step>
+            <step>
+                <cmd>Click <menucascade><uicontrol>Home</uicontrol><uicontrol>Views</uicontrol><uicontrol>Close</uicontrol></menucascade>.</cmd>
+                <stepresult>The view no longer appears in the <uicontrol>View</uicontrol> pane.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

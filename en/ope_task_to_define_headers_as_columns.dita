@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_define_headers_as_columns" xml:lang="en-us">
+    <title>To define headers as columns</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>headers<indexterm>defining as columns</indexterm></indexterm><indexterm>columns<indexterm>defining headers as</indexterm></indexterm><indexterm>defining headers as columns</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Select the cell at the top of the row headers.</cmd>
+            </step>
+            <step>
+                <cmd>Click <menucascade><uicontrol>Home</uicontrol><uicontrol>Headers</uicontrol><uicontrol>Header as column</uicontrol></menucascade>.</cmd>
+                <stepresult>The data in the row headers becomes a column in the view.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

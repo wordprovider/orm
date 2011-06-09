@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd">
+<concept id="ormetis_concept_what_is_ormetis" xml:lang="fr-FR">
+    <title>Que pouvez-vous réaliser avec Ormetis Professional Edition ?</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>Ormetis Professional Edition<indexterm>aperçu de</indexterm></indexterm><indexterm>aperçu d'Ormetis Professional Edition</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>Ormetis Professional Edition vous permet d'importer des données de différents formats et à partir de différentes sources, de les combiner, de les transformer et d'exporter le résultat dans un format de votre choix. Vous pouvez, par exemple, utiliser Ormetis Professional Edition pour importer des données à partir de différents fichiers textuels ou Excel. Vous combinez les données sur la base des éléments communs, vous les transformez (par exemple, en les groupant, en les filtrant, en les tournant ou en les triant), puis vous exportez le résultat vers un autre tableau Excel ou vers un fichier texte. </p>
+        <p>Ormetis Professional Edition gère les détails de la transformation et du formatage des données de manière transparente. Quand vous combinez, par exemple, des données de sources hétérogènes, Ormetis Professional Edition reconnaît automatiquement les différents formats de date ou de numérotation et applique un format commun aux données combinées. (Vous pouvez modifier ce format ultérieurement si vous le souhaitez.) Ormetis Professional Edition reconnaît aussi lorsque la première ligne d'un fichier contient des noms de colonnes et distingue automatiquement différents symboles de séparation dans les fichiers "comma-separated values" (CSV). </p>
+        <p>Avec Ormetis Professional Edition, vous pouvez vous focaliser sur la signification de vos données plutôt que sur la manière dont elles sont organisées ou la façon de les transformer. Vous pouvez créer des processus de transformation complexes, récurrents et contrôlables sans connaissances techniques ou assistance de votre département informatique.</p>
+    </conbody>
+</concept>

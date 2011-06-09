@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_rename_views" xml:lang="fr-FR">
+    <title>Pour renommer des vues</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>vues<indexterm>renommer</indexterm></indexterm><indexterm>renommer des vues</indexterm><indexterm>étapes<indexterm>renommer vues en</indexterm></indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Sélectionnez la vue que vous souhaitez renommer dans le panneau <uicontrol>Vue</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Cliquez <menucascade><uicontrol>Accueil</uicontrol><uicontrol>Vues</uicontrol><uicontrol>Renommer</uicontrol></menucascade>.</cmd>
+            </step>
+            <step>
+                <cmd>Saisissez le nouveau nom de la vue dans la cellule en haut à gauche de la vue.</cmd>
+                <info>
+                    <note>
+                        <ul>
+                            <li>Lorsque vous renommez une vue, le nom de la vue change aussi dans toutes les étapes qui réfèrent à la vue en question.</li>
+                            <li>Vous pouvez également renommer une vue en double-cliquant sur son nom dans l'étape correspondante, puis en saisissant le nouveau nom.</li>
+                        </ul>
+                    </note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

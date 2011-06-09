@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_import_files" xml:lang="en-us">
+    <title>To import files</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>files<indexterm>importing</indexterm></indexterm><indexterm>importing files</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click <menucascade><uicontrol>Home</uicontrol><uicontrol>Import</uicontrol><uicontrol>File</uicontrol></menucascade>.</cmd>
+            </step>
+            <step>
+                <cmd>Select the files you want to import and click <uicontrol>Open</uicontrol>.</cmd>
+                <stepresult>
+                    <p>The views corresponding to the imported files appear in the <uicontrol>View</uicontrol> pane and the steps corresponding to the import actions appear in the <uicontrol>Scenario</uicontrol> pane. Each step appears as <systemoutput>&lt;view-name> Insert File &lt;file-name></systemoutput>.</p>
+                    <p>Each view contains two columns in addition to the columns in the file: a column showing the view name which displays the row number, and a <systemoutput>File</systemoutput> column repeating the name of the file on each row.</p>
+                    <p>If the imported file is an Excel spreadsheet with worksheets, the view appears as a grouped view, and the grouping control at the left of the view contains a group for the name of each worksheet.</p>
+                </stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

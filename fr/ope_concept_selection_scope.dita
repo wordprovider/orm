@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd">
+<concept id="ope_concept_selection_scope" xml:lang="fr-FR">
+    <title>Sélection et étendue</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>données<indexterm>impact de la sélection sur</indexterm></indexterm><indexterm>étendue des actions</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>L'effet d'une action effectuée dans Ormetis Professional Edition dépend souvent de la vue, partie de vue ou des données que vous sélectionnez lorsque vous effectuez l'action. L'impact des actions dépend donc à la fois de la sélection et des données.</p>
+        <p>Si vous sélectionnez, par exemple, le contrôle de groupage dans une vue groupée et triez ensuite les données en ordre ascendant, Ormetis Professional Edition applique le tri aux lignes dans le contrôle de groupage. Si vous sélectionnez une colonne au sein d'une vue groupée et appliquez un tri ascendant, Ormetis Professional Edition trie les données dans tous les groupes en ordre ascendant, selon les valeurs de colonne. </p>
+        <p>Lorsque vous modifiez les données dans une vue, l'ampleur du changement dépend des données et de la sélection. Si vous remplacez, par exemple, le texte "Manteau" dans une cellule de la colonne Produit, Ormetis Professional Edition remplace toutes les cellules de la colonne Produit qui contiennent la chaîne "Manteau". Si vous sélectionnez les lignes 4, 5 et 6 et remplacez le mot "Manteau" dans la ligne 4, Ormetis Professional Edition modifie le texte dans les lignes 4, 5 et 6, mais pas dans les autres cellules contenant le même mot.</p>
+        <p>Si vous remplacez un contenu textuel dans un contrôle de groupage, le remplacement s'applique à l'en-tête de groupe. Si vous remplacez, par exemple, le mot "Manteau" par "Veste" dans un contrôle de groupage et dégroupez, ensuite, la vue, le contrôle de groupage continent "Veste" dans toutes les lignes dont la valeur était auparavant "Manteau".</p>
+    </conbody>
+</concept>

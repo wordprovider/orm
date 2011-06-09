@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd">
+<concept id="ope_concept_selection_scope" xml:lang="en-us">
+    <title>Selection and scope</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>data<indexterm>effect of selection on</indexterm></indexterm><indexterm>scope of actions</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>The effect of an action carried out in Ormetis Professional Edition often depends on which view, part of view or data you select when performing the action. The impact of actions is both selection- and data-driven.</p>
+        <p>For example, if you select the grouping control in a grouped view, and then sort data in ascending order, Ormetis Professional Edition applies the sort to the rows in the grouping control. If you select a column within a grouped view and apply an ascending sort, Ormetis Professional Edition sorts the data in all groups in ascending order according to the column values. </p>
+        <p>When you change the data in a view, the extent of the change is data- and selection-driven. For example, if you replace the text "Jacket" in a cell in the Product column, Ormetis Professional Edition replaces all cells in the Product column containing the string "Jacket". If you select rows 4, 5 and 6 and replace the "Jacket" text in row 4, Ormetis Professional Edition modifies the text in rows 4, 5 and 6, but not in other cells containing the same text.</p>
+        <p>If you replace text in a grouping control, the replacement applies to the group header. For example, if you replace the text "Jacket"with "Coat" in a grouping control, and then ungroup the view, the grouping column contains "Coat" in all rows where its value was previously "Jacket".</p>
+    </conbody>
+</concept>

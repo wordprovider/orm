@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_rename_columns" xml:lang="fr-FR">
+    <title>Pour renommer des colonnes</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>colonnes<indexterm>renommer</indexterm></indexterm><indexterm>renommer des colonnes</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Sélectionnez l'en-tête de la colonne que vous souhaitez renommer.</cmd>
+            </step>
+            <step>
+                <cmd>Cliquez <menucascade><uicontrol>Accueil</uicontrol><uicontrol>Colonnes &amp; Lignes</uicontrol><uicontrol>Renommer</uicontrol></menucascade>.</cmd>
+            </step>
+            <step>
+                <cmd>Saisissez le nouveau nom de colonne dans l'en-tête de colonne.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

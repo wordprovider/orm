@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd">
+<concept id="ope_concept_importing_files_from_folder" xml:lang="en-us">
+    <title>Importing files from folders</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>files<indexterm>importing from folders</indexterm></indexterm><indexterm>folders<indexterm>importing files from</indexterm></indexterm><indexterm>importing files from folders</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <conbody><p>You can import multiple files from a folder by multiple selection of all the files. You can also select the folder containing the files. </p><p>Selecting the folder has a clear advantage. When you select the folder, Ormetis Professional Edition creates a grouped view. Each group represents the data imported from one file. If you add files to the folder, Ormetis Professional Edition automatically updates the grouped view to account for the new files.</p><example>
+            <title>Importing files from a folder</title>
+            <p>In this example you have a folder containing files with orders from different stores. Each file is named <codeph>&lt;store-location>.txt</codeph>, for example <codeph>Boston.txt</codeph>. Each file contains four columns: <codeph>Reseller</codeph>, <codeph>Delivery</codeph>, <codeph>Quantity</codeph> and <codeph>Product</codeph>.</p>
+            <p>When you select the folder, the following grouped view appears in the <uicontrol>View</uicontrol> pane.</p><image href="images/vw_grouped_view_from_folder.gif" outputclass="" scale="70"/>
+            <p>The groups are derived from the names of the files in the folder. You add a new file, <codeph>San Francisco.txt</codeph>, to the folder. This file contains similar data for the San Francisco store. Ormetis Professional Edition automatically updates the grouped view with an additional group for San Francisco.</p><image href="images/vw_grouped_view_after_file_add.gif" scale="70"/>
+        </example>
+    </conbody>
+</concept>

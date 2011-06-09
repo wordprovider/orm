@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="taskId">
+    <title>Pour insérer des fichiers à partir d'un scénario</title>
+    <prolog/>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Cliquez <menucascade>
+                        <uicontrol>Accueil</uicontrol>
+                        <uicontrol>Insérer</uicontrol><uicontrol>Fichier</uicontrol></menucascade> et
+                    sélectionnez le scénario à insérer. </cmd>
+                <stepresult>Le </stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

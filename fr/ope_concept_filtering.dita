@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd">
+<concept id="ope_concept_filtering_data" xml:lang="fr-FR">
+    <title>Filtrage de données</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>vues<indexterm>filtrage</indexterm></indexterm><indexterm>filtrage de vues</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>Vous pouvez filtrer les données d'une vue en supprimant les lignes sur la base des valeurs dans les colonnes. Vous pouvez aussi supprimer les lignes qui contiennent des valeurs vierges ou dupliquées. </p>
+    </conbody>
+</concept>

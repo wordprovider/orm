@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd">
+<concept id="ope_concept_matching_views" xml:lang="en-us">
+    <title>Matching views</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>views<indexterm>matching</indexterm></indexterm><indexterm>matching views</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <conbody><p>You match views by placing them side by side to create a new view based on values in a common column.</p><example><title>Matching views</title><p>In this example you match two views. The first view contains product information.</p><image href="images/vw_match_left.gif" scale="70"/><p>The second view contains product prices.</p><image href="images/vw_match_right.gif" scale="70"/><p>When you match the views, Ormetis Professional Edition automatically recognizes the common column, Product.</p><image href="images/vw_matched.gif" scale="50"/><p>Ormetis Professional Edition does not include row 4 from the view containing the prices because there is no matching product in the view containing the products.</p><note>Ormetis Professional Edition recognizes common columns even when the name of the common column is not the same in both views, by matching on data values.</note></example></conbody>
+</concept>

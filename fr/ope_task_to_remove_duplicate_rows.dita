@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_remove_duplicate_rows" xml:lang="fr-FR">
+    <title>Pour supprimer des lignes dupliquées</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>lignes<indexterm>supprimer les lignes dupliquées</indexterm></indexterm><indexterm>suppression de lignes dupliquées</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p>Vous pouvez supprimer les lignes dupliquées dont les valeurs dans les colonnes que vous sélectionnez sont dupliquées. Lorsque vous supprimez des lignes dupliquées, Ormetis Professional Edition conserve la première ligne dans l'ensemble de doublons et filtre les autres lignes. L'ordre des données dans la vue est crucial dans la définition des lignes qui sont conservées.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Sélectionnez les lignes dont vous souhaitez tester qu'elles contiennent des valeurs dupliquées.</cmd>
+            </step>
+            <step>
+                <cmd>Cliquez <menucascade><uicontrol>Données</uicontrol><uicontrol>Filtre</uicontrol><uicontrol>Supprimer les lignes dupliquées</uicontrol></menucascade>.</cmd>
+                <stepresult>Ormetis Professional Edition supprime toutes les lignes qui contiennent des valeurs dupliquées dans les colonnes, hormis dans la première ligne de l'ensemble.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

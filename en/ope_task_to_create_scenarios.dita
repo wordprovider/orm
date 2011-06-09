@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_create_scenarios" xml:lang="en-us">
+    <title>To create scenarios</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>scenarios<indexterm>creating</indexterm></indexterm><indexterm>creating scenarios</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click the <uicontrol>Ormetis</uicontrol> button <image href="images/btn_ormetis.gif" scale="70"/>, then click <uicontrol>New</uicontrol>.</cmd>
+                <stepresult>The <uicontrol>Scenario</uicontrol> pane and <uicontrol>View</uicontrol> pane appear blank.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_rename_columns" xml:lang="en-us">
+    <title>To rename columns</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>columns<indexterm>renaming</indexterm></indexterm><indexterm>renaming columns</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Select the header of the column you want to rename.</cmd>
+            </step>
+            <step>
+                <cmd>Click <menucascade><uicontrol>Home</uicontrol><uicontrol>Columns &amp; Rows</uicontrol><uicontrol>Rename</uicontrol></menucascade>.</cmd>
+            </step>
+            <step>
+                <cmd>Type the new column name in the column header.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

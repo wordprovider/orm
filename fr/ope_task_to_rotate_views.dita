@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_rotate_views" xml:lang="fr-FR">
+    <title>Pour faire tourner les données dans des vues</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>données<indexterm>tourner</indexterm></indexterm><indexterm>faire tourner des données</indexterm><indexterm>vues<indexterm>tourner</indexterm></indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody><context>Quand vous faites tourner une vue, vous faites tourner ses données à 90 degrés. Les en-têtes de données passent des en-têtes de colonne aux en-têtes de ligne pour identifier les données qui ont fait l'objet de la rotation.</context><steps>
+            <step>
+                <cmd>Sélectionnez la vue.</cmd>
+            </step>
+            <step>
+                <cmd>Cliquez <menucascade><uicontrol>Données</uicontrol><uicontrol>Transformer</uicontrol><uicontrol>Tourner</uicontrol></menucascade>.</cmd>
+                <stepresult>Ormetis Professional Edition fait tourner les données de la vue de 90 degrés.</stepresult>
+            </step>
+        </steps><example>
+            <title>Faire tourner une vue</title>
+            <p>Une vue comprend les données suivantes :</p><image href="images/vw_deliveries.gif" scale="70"/>
+            <p>Après rotation, les données se présentent comme suit :</p>
+            <image href="images/vw_rotated.gif" scale="70"/><p>Dans la mesure où les dates de livraison apparaissent maintenant en ligne 1, les quantités en ligne 2 et les produits en ligne 3 (de gauche à droite), les en-têtes de colonne deviennent les en-têtes de ligne pour identifier les données qui ont fait l'objet de la rotation.</p><p>Si vous faites à nouveau tourner les données, les en-têtes redeviennent les en-têtes de colonne pour identifier par colonne les données qui ont fait l'objet de la rotation.</p><image href="images/vw_rotated_again.gif" scale="70"/>
+        </example></taskbody>
+</task>

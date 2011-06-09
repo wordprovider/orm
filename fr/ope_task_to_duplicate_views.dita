@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_diplicate_views" xml:lang="fr-FR">
+    <title>Pour dupliquer des vues</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>vues<indexterm>dupliquer</indexterm></indexterm><indexterm>dupliquer des vues</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Sélectionnez la vue que vous souhaitez dupliquer dans le panneau <uicontrol>Vue</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Cliquez <menucascade><uicontrol>Accueil</uicontrol><uicontrol>Vues</uicontrol><uicontrol>Dupliquer</uicontrol></menucascade>.</cmd>
+                <stepresult>Ormetis Professional Edition duplique la vue dans le panneau <uicontrol>Vue</uicontrol>.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

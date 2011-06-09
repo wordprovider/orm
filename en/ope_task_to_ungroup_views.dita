@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_ungroup_views" xml:lang="en-us">
+    <title>To ungroup views</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>views<indexterm>ungrouping</indexterm></indexterm><indexterm>ungrouping views</indexterm><indexterm>data<indexterm>ungrouping</indexterm></indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Select the grouped view you want to ungroup.</cmd>
+            </step>
+            <step>
+                <cmd>Click <menucascade><uicontrol>Data</uicontrol><uicontrol>Organize</uicontrol><uicontrol>Ungroup</uicontrol></menucascade>.</cmd>
+                <stepresult>Ormetis Professional Edition removes the grouping control from the view and adds a Group column containing its values to the view.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

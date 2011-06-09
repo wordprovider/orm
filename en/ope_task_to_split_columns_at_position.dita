@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_split_columns_at_position" xml:lang="en-us">
+    <title>To split columns at a character position</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>columns<indexterm>splitting at character position</indexterm></indexterm><indexterm>splitting columns at character position</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Select the column you want to split.</cmd>
+            </step>
+            <step>
+                <cmd>In the <menucascade><uicontrol>Home</uicontrol><uicontrol>Format</uicontrol><uicontrol>Split At</uicontrol></menucascade> menu item, type the character position at which you want to split the column data into new columns.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Split At</uicontrol>.</cmd>
+                <stepresult>Ormetis Professional Edition splits the data into columns at every <codeph>n</codeph> characters, where <codeph>n</codeph> is the number you selected.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

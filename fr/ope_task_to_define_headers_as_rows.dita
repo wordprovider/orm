@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_define_headers_as_rows" xml:lang="fr-FR">
+    <title>Pour définir des en-têtes comme lignes</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>en-têtes<indexterm>définir comme lignes</indexterm></indexterm><indexterm>lignes<indexterm>définir des en-têtes comme</indexterm></indexterm><indexterm>définition d'en-têtes comme lignes</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Sélectionnez les en-têtes de colonnes.</cmd>
+            </step>
+            <step>
+                <cmd>Cliquez <menucascade><uicontrol>Accueil</uicontrol><uicontrol>En-têtes</uicontrol><uicontrol>En-tête comme ligne</uicontrol></menucascade>.</cmd>
+                <stepresult>Les données issues des en-têtes de colonne deviennent les données d'une ligne.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

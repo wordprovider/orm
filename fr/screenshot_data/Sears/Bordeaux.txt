@@ -1,0 +1,6 @@
+Revendeur;Livraison;Quantité;Produit
+Sears;02/12/2009;255;Bermuda
+Sears;02/14/2009;412;Chemise
+Sears;02/16/2009;230;Pull
+Sears;02/20/2009;330;Chemise
+Sears;02/22/2009;150;Pantalon

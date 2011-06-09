@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd">
+<concept id="ope_concept_scenarios_and_steps" xml:lang="en-us">
+    <title>Steps and scenarios</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>steps<indexterm>building scenarios with</indexterm><indexterm>definition of</indexterm></indexterm><indexterm>scenarios<indexterm>and steps</indexterm></indexterm></keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>Steps are Ormetis Professional Edition's way of visualizing and ordering the actions you perform in a data transformation scenario. Whenever you perform an action, a corresponding step appears in the <uicontrol>Scenario</uicontrol> pane on the right of the Ormetis Professional Edition interface. Steps display from top to bottom in the <uicontrol>Scenario</uicontrol> pane.</p>
+        <p>You can also work with the steps in the <uicontrol>Scenario</uicontrol> pane to interact with a scenario. For example, you can change the name of a view by double-clicking its name in a step, then typing the new view name.</p>
+        <p>Steps represent an action performed on one or more existing views or on an external file to output a new view. The text of the step has three elements: the name of the output view (<systemoutput>View#n</systemoutput> by default, or the name of an external file), the action, and the input views or file. For example, if you sort the data in ascending order on the Ticker column in a view called <systemoutput>Companies</systemoutput>, the text of the step is <systemoutput>View#n Sort AZ Companies</systemoutput>. </p>
+        <p>When you select a step in the <uicontrol>Scenario</uicontrol> pane, you see a snapshot of the scenario in the <uicontrol>View</uicontrol> pane at the point in the scenario corresponding to the step. For example, if the step <systemoutput>Sales Import File Sales.txt</systemoutput> is the first step in a scenario, you see the Sales view only in the <uicontrol>View</uicontrol> pane when you select the step.</p>
+        <p>You can perform actions on views displayed in a snapshot of a scenario even if the step you selected is not the most recent step. The new step corresponding to the action you perform appears at the end of the scenario.</p>
+    </conbody>
+</concept>

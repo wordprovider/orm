@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_rename_views" xml:lang="en-us">
+    <title>To rename views</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>views<indexterm>renaming</indexterm></indexterm><indexterm>renaming views</indexterm><indexterm>steps<indexterm>renaming views in</indexterm></indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Select the view you want to rename in the <uicontrol>View</uicontrol> pane.</cmd>
+            </step>
+            <step>
+                <cmd>Click <menucascade><uicontrol>Home</uicontrol><uicontrol>Views</uicontrol><uicontrol>Rename</uicontrol></menucascade>.</cmd>
+            </step>
+            <step>
+                <cmd>Type the new view name in the top left cell of the view.</cmd>
+                <info>
+                    <note>
+                        <ul>
+                            <li>When you rename a view, the view name also changes on all steps that reference the view.</li>
+                            <li>You can also rename a view by double-clicking its name in the corresponding step, then typing the new name.</li>
+                        </ul>
+                    </note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_flip_rows_columns" xml:lang="fr-FR">
+    <title>Pour inverser des données de ligne et de colonne</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>lignes<indexterm>inverser</indexterm></indexterm><indexterm>colonnes<indexterm>inverser</indexterm></indexterm><indexterm>inverser des lignes et des colonnes</indexterm><indexterm>vues<indexterm>inverser l'ordre des colonnes dans</indexterm><indexterm>inverser l'ordre des lignes dans</indexterm></indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody><context>En inversant les données de lignes ou de colonne, vous inversez l'ordre des données.</context><steps>
+            <step>
+                <cmd>Sélectionnez la vue dont vous souhaitez inverser les colonnes ou les lignes.</cmd>
+            </step>
+            <step>
+                <cmd>Cliquez <menucascade><uicontrol>Données</uicontrol><uicontrol>Transformer</uicontrol><uicontrol>Inverser colonnes</uicontrol>
+                    </menucascade> pour inverser des colonnes ou <menucascade><uicontrol>Données</uicontrol><uicontrol>Transformer</uicontrol><uicontrol>Inverser lignes</uicontrol>
+                    </menucascade> pour inverser des lignes.</cmd>
+            </step>
+        </steps><example>
+            <title>Inverser des colonnes et des lignes</title>
+            <p>Une vue affiche les données suivantes :</p><image href="images/vw_deliveries.gif" scale="70"/>
+            <p>Si vous inversez les colonnes, les données apparaîtront comme suit :</p>
+            <image href="images/vw_flipped_cols.gif" scale="70"/>
+            <p>Si vous inversez les lignes, les données apparaîtront comme suit :</p><image href="images/vw_flipped_rows.gif" scale="70"/>
+        </example></taskbody>
+</task>

@@ -1,0 +1,5 @@
+Product;Price (GBP);Margin (%);Cost (GBP)
+Jacket;330,00;20;264,00
+Shirt;140,00;40;84,00
+Sweater;95,00;20;76,00
+Trousers;130,00;30;91,00

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd">
+<concept id="ope_concept_stacking_views" xml:lang="en-us">
+    <title>Stacking views</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>views<indexterm>stacking</indexterm><indexterm>changing regional settings of</indexterm></indexterm><indexterm>stacking views</indexterm><indexterm>regional settings<indexterm>changing</indexterm></indexterm></keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>You stack views by placing one view on top of another to create a new view. </p>
+        <p>A stacked view takes its regional settings by default from the upper view in the <uicontrol>View</uicontrol> pane. For example, if the upper view has dates in US format (mm/dd/yyyy), dates in the stacked view appear in mm/dd/yyyy format. <note>You can change the regional settings of any view by selecting the view, then selecting <menucascade><uicontrol>Views</uicontrol><uicontrol>Locale</uicontrol><uicontrol>Regional Settings</uicontrol></menucascade>.</note></p>
+        <p>A stacked view contains a column for each unique column in the original views. If the original views contain columns with the same name, the stacked view combines their data in a column with the same name. If a column does not appear in all the original views, its data appears blank in the rows corresponding to the views where the column did not exist.</p>
+    </conbody>
+</concept>

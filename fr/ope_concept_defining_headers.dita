@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/concept.dtd">
+<concept id="ope_concept_defining_headers" xml:lang="fr-FR">
+    <title>Définir des en-têtes</title>
+    <conbody>
+        <p>Vous pouvez déplacer des données entre les en-têtes de colonne et de ligne de quatre manières. </p>
+        <simpletable>
+            <sthead>
+                <stentry>Opération</stentry>
+                <stentry>Description</stentry>
+            </sthead>
+            <strow>
+                <stentry>Définir des colonnes comme en-têtes</stentry>
+                <stentry>Vous sélectionnez une colonne et déplacez ses valeurs vers les en-têtes de ligne correspondants.</stentry>
+            </strow>
+            <strow>
+                <stentry>Définir des lignes comme en-têtes</stentry>
+                <stentry>Vous sélectionnez une ligne et déplacez ses valeurs vers les en-têtes de colonne correspondants.</stentry>
+            </strow>
+            <strow>
+                <stentry>Définir des en-têtes comme colonnes</stentry>
+                <stentry>Vous déplacez les valeurs des en-têtes de ligne vers la vue "données".</stentry>
+            </strow>
+            <strow>
+                <stentry>Définir des en-têtes comme lignes</stentry>
+                <stentry>Vous déplacez les valeurs des en-têtes de colonne vers la vue "données".</stentry>
+            </strow>
+        </simpletable>
+    </conbody>
+</concept>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_extract_columns_rows" xml:lang="fr-FR">
+    <title>Pour extraire des colonnes et des lignes</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>colonnes<indexterm>extraire</indexterm></indexterm><indexterm>lignes<indexterm>extraire</indexterm></indexterm><indexterm>vues<indexterm>extraire des colonnes de</indexterm></indexterm><indexterm>vues<indexterm>extraire des lignes de</indexterm></indexterm><indexterm>extraction de colonnes</indexterm><indexterm>extraction de lignes</indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Sélectionnez les en-têtes de colonne des colonnes que vous souhaitez extraire et les numéros de ligne des lignes que vous souhaitez extraire.</cmd>
+                <info>
+                    <note>Vous pouvez ne sélectionner que des en-têtes de colonne ou des numéros de ligne si vous souhaitez n'extraire que des colonnes ou des lignes.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Cliquez <menucascade><uicontrol>Accueil</uicontrol><uicontrol>Colonnes &amp; Lignes</uicontrol><uicontrol>Extraire</uicontrol></menucascade>.</cmd>
+                <stepresult>Ormetis Professional Edition supprimer toutes les colonnes et lignes autres que celles que vous avez sélectionnées dans la vue.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

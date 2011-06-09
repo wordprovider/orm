@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
+<task id="ope_task_to_group_views" xml:lang="en-us">
+    <title>To group views</title>
+    <prolog>
+        <metadata>
+            <keywords><indexterm>views<indexterm>grouping</indexterm></indexterm><indexterm>grouping views</indexterm><indexterm>data<indexterm>grouping</indexterm></indexterm></keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Select the column you want to use to group the data.</cmd>
+            </step>
+            <step>
+                <cmd>Click <menucascade><uicontrol>Data</uicontrol><uicontrol>Organize</uicontrol><uicontrol>Group</uicontrol></menucascade>.</cmd>
+                <stepresult>The view becomes a grouped view. The grouping control to the left of the view displays the values in the column you selected. When you click a value in the grouping control, the group displays all the rows relating to the value.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>
