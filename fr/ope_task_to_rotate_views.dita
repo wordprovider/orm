@@ -17,8 +17,8 @@
             </step>
         </steps><example>
             <title>Faire tourner une vue</title>
-            <p>Une vue comprend les données suivantes :</p><image href="images/vw_deliveries.gif" scale="70"/>
+            <p>Une vue comprend les données suivantes :</p><image href="images/vw_deliveries.png" scale="70"/>
             <p>Après rotation, les données se présentent comme suit :</p>
-            <image href="images/vw_rotated.gif" scale="70"/><p>Dans la mesure où les dates de livraison apparaissent maintenant en ligne 1, les quantités en ligne 2 et les produits en ligne 3 (de gauche à droite), les en-têtes de colonne deviennent les en-têtes de ligne pour identifier les données qui ont fait l'objet de la rotation.</p><p>Si vous faites à nouveau tourner les données, les en-têtes redeviennent les en-têtes de colonne pour identifier par colonne les données qui ont fait l'objet de la rotation.</p><image href="images/vw_rotated_again.gif" scale="70"/>
+            <image href="images/vw_rotated.png" scale="70"/><p>Dans la mesure où les dates de livraison apparaissent maintenant en ligne 1, les quantités en ligne 2 et les produits en ligne 3 (de gauche à droite), les en-têtes de colonne deviennent les en-têtes de ligne pour identifier les données qui ont fait l'objet de la rotation.</p><p>Si vous faites à nouveau tourner les données, les en-têtes redeviennent les en-têtes de colonne pour identifier par colonne les données qui ont fait l'objet de la rotation.</p><image href="images/vw_rotated_again.png" scale="70"/>
         </example></taskbody>
 </task>

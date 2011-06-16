@@ -10,7 +10,7 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Cliquez le bouton <uicontrol>Ormetis</uicontrol> <image href="images/btn_ormetis.gif" scale="70"/>, puis cliquez sur <uicontrol>Nouveau</uicontrol>.</cmd>
+                <cmd>Cliquez le bouton <uicontrol>Ormetis</uicontrol> <image href="images/btn_ormetis.png" scale="70"/>, puis cliquez sur <uicontrol>Nouveau</uicontrol>.</cmd>
                 <stepresult>Le panneau <uicontrol>Scénario</uicontrol> et le panneau <uicontrol>Vue</uicontrol> apparaissent vides.</stepresult>
             </step>
         </steps>

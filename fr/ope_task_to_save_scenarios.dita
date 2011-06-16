@@ -10,7 +10,7 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Cliquez sur le bouton <uicontrol>Ormetis</uicontrol> <image href="images/btn_ormetis.gif" scale="70"/>, puis cliquez sur <uicontrol>Enregistrer</uicontrol> ou <uicontrol>Enregistrer sous</uicontrol>.</cmd>
+                <cmd>Cliquez sur le bouton <uicontrol>Ormetis</uicontrol> <image href="images/btn_ormetis.png" scale="70"/>, puis cliquez sur <uicontrol>Enregistrer</uicontrol> ou <uicontrol>Enregistrer sous</uicontrol>.</cmd>
             </step>
             <step>
                 <cmd>Si vous avez cliqué sur <uicontrol>Enregistrer sous</uicontrol> ou si vous enregistrer le scénario pour la première fois, saisissez le nom du scénario puis cliquez sur <uicontrol>OK</uicontrol>.</cmd>

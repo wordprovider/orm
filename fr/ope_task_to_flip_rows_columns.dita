@@ -18,9 +18,9 @@
             </step>
         </steps><example>
             <title>Inverser des colonnes et des lignes</title>
-            <p>Une vue affiche les données suivantes :</p><image href="images/vw_deliveries.gif" scale="70"/>
+            <p>Une vue affiche les données suivantes :</p><image href="images/vw_deliveries.png" scale="70"/>
             <p>Si vous inversez les colonnes, les données apparaîtront comme suit :</p>
-            <image href="images/vw_flipped_cols.gif" scale="70"/>
-            <p>Si vous inversez les lignes, les données apparaîtront comme suit :</p><image href="images/vw_flipped_rows.gif" scale="70"/>
+            <image href="images/vw_flipped_cols.png" scale="70"/>
+            <p>Si vous inversez les lignes, les données apparaîtront comme suit :</p><image href="images/vw_flipped_rows.png" scale="70"/>
         </example></taskbody>
 </task>
