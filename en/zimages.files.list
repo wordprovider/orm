@@ -1,0 +1,27 @@
+btn_ormetis.png                           ope_task_to_save_scenarios          *
+                                          ope_task_to_open_scenarios          * 
+                                          ope_task_to_create_scenarios        *
+
+vw_deliveries.png                         ope_task_to_rotate_views            *
+                                          ope_task_to_flip_rows_columns       *
+
+vw_before_replace.png
+
+vw_example_flipped_cols.png
+vw_example_no_grouping_col.png
+vw_example_rotated.png
+vw_example_row_as_header.png
+vw_example_ungrouped.png
+vw_flipped_cols.png
+vw_flipped_rows.png
+vw_grouped.png
+vw_grouped_view_after_file_add.png
+vw_grouped_view_from_folder.png
+vw_matched.png
+vw_match_left.png
+vw_match_right.png
+vw_rotated_again.png
+vw_rotated.png
+vw_row_replace.png
+vw_slice_after.png
+vw_slice_before.png

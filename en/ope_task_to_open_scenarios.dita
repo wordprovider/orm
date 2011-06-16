@@ -10,7 +10,7 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Click the <uicontrol>Ormetis</uicontrol> button <image href="images/btn_ormetis.png" scale="70"/>, then click <uicontrol>Open</uicontrol>.</cmd>
+                <cmd>Click the <uicontrol>Ormetis</uicontrol> button <image href="images/btn_ormetis.png" scale="70" height="31" width="31"/>, then click <uicontrol>Open</uicontrol>.</cmd>
             </step>
             <step>
                 <cmd>Browse to the scenario you want to open, select it and click <uicontrol>Open</uicontrol>.</cmd>
