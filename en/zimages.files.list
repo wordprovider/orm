@@ -1,9 +1,9 @@
-btn_ormetis.png                           ope_task_to_save_scenarios          *
-                                          ope_task_to_open_scenarios          * 
-                                          ope_task_to_create_scenarios        *
+btn_ormetis.png                         31,31                      ope_task_to_save_scenarios          *
+                                                                   ope_task_to_open_scenarios          * 
+                                                                   ope_task_to_create_scenarios        *
 
-vw_deliveries.png                         ope_task_to_rotate_views            *
-                                          ope_task_to_flip_rows_columns       *
+vw_deliveries.png                       313,114                    ope_task_to_rotate_views            *
+                                                                   ope_task_to_flip_rows_columns       *
 
 vw_before_replace.png
 
