@@ -17,8 +17,8 @@
             </step>
         </steps><example>
             <title>Rotating a view</title>
-            <p>A view contains the following data:</p><image href="images/vw_deliveries.gif" scale="70"/>
+            <p>A view contains the following data:</p><image href="images/vw_deliveries.png" scale="70"/>
             <p>After rotation, the data is as follows:</p>
-            <image href="images/vw_rotated.gif" scale="70"/><p>Because the delivery dates now appear across row 1, quantities across row 2, and products across row 3 (all from right to left), the column headers become row headers to identify the rotated data.</p><p>If you rotate the data again, the headers again become column headers to identify the rotated data by column.</p><image href="images/vw_rotated_again.gif" scale="70"/>
+            <image href="images/vw_rotated.png" scale="70"/><p>Because the delivery dates now appear across row 1, quantities across row 2, and products across row 3 (all from right to left), the column headers become row headers to identify the rotated data.</p><p>If you rotate the data again, the headers again become column headers to identify the rotated data by column.</p><image href="images/vw_rotated_again.png" scale="70"/>
         </example></taskbody>
 </task>

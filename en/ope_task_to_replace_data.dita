@@ -20,8 +20,8 @@
             </step>
         </steps><example>
             <title>Replacing text in cells</title>
-            <p>In the following view you select rows 1 and 2 and replace the "Jacket" text in the Product column with "Coat".</p><image href="images/vw_before_replace.gif" scale="70"/>
-            <p>Ormetis Professional Edition replaces the data as follows:</p><image href="images/vw_row_replace.gif" scale="70"/>
+            <p>In the following view you select rows 1 and 2 and replace the "Jacket" text in the Product column with "Coat".</p><image href="images/vw_before_replace.png" scale="70"/>
+            <p>Ormetis Professional Edition replaces the data as follows:</p><image href="images/vw_row_replace.png" scale="70"/>
             <p>In the same view, you replace the "Jacket" text with "Coat" in any cell in the Product column, and without selecting any rows. In this case, Ormetis Professional Edition changes the values in all the cells to "Coat".</p>
         </example></taskbody>
 </task>
