@@ -7,24 +7,41 @@ vw_deliveries.png                       313,114                    ope_task_to_r
 
 vw_before_replace.png                   321,113                    ope_task_to_replace_data                   *                                         
 
-vw_example_flipped_cols.png             xxx,xxx                    ope_concept_horizontal_vertical_transform
+vw_example_flipped_cols.png             xxx,xxx                    ope_concept_horizontal_vertical_transform  *
 
-vw_example_no_grouping_col.png
-vw_example_rotated.png
-vw_example_row_as_header.png
-vw_example_ungrouped.png
-vw_flipped_cols.png
-vw_flipped_rows.png
-vw_grouped.png
-vw_grouped_view_after_file_add.png
-vw_grouped_view_from_folder.png
-vw_matched.png
-vw_match_left.png
-vw_match_right.png
-vw_rotated_again.png
-vw_rotated.png
+vw_example_no_grouping_col.png          448,91                     ope_concept_horizontal_vertical_transform  *
 
-vw_row_replace.png                     324,114                      ope_task_to_replace_data
+vw_example_rotated.png                  534,91                     ope_concept_horizontal_vertical_transform  *
 
-vw_slice_after.png
-vw_slice_before.png
+vw_example_row_as_header.png            534,92                     ope_concept_horizontal_vertical_transform  * 
+
+vw_example_ungrouped.png                525,92                     ope_concept_horizontal_vertical_transform  *
+
+vw_flipped_cols.png                     323,116                    ope_task_to_flip_rows_cols                 *
+
+vw_flipped_rows.png                     321,114                    ope_task_to_flip_rows_cols                 *
+
+vw_grouped.pngi                                                    <not referenced in any file>
+
+vw_grouped_view_after_file_add.png      510,165                    ope_concept_importing_files_from_folder    *
+
+vw_grouped_view_from_folder.png         490,163                    ope_concept_importing_files_from_folder    *
+                                                                   ope_concept_grouping                       *
+
+vw_matched.png                          550,114                    ope_concept_matching_views                 *                                         
+
+vw_match_left.png                       323,115                    ope_concept_attaching_views                *
+                                                                   ope_concept_matching_views                 *
+
+vw_match_right.png                      399,138                    ope_concept_attaching_views                *
+                                                                   ope_concept_matching_views                 *
+
+vw_rotated_again.png                    324,115                    ope_task_to_rotate_views                   * 
+
+vw_rotated.png                          322,114                    ope_task_to_rotate_views                   *
+
+vw_row_replace.png                      324,114                    ope_task_to_replace_data                   *
+
+vw_slice_after.png                      384,138                    ope_concept_horizontal_vertical_transform  *
+
+vw_slice_before.png                     296,236                    ope_concept_horizontal_vertical_transform  *
