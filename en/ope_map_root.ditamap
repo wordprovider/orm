@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/map.dtd">
-<map title="Ormetis Professional Edition User's Guide" xml:lang="en-us">
+<map xml:lang="en-us">
+    <!-- Map metadata -->
+    <title>Ormetis Professional Edition User's Guide</title>
+    <topicmeta>
+        <author>Wordprovider Ltd</author> 
+        <prodinfo>
+            <prodname>Ormetis Professional Edition</prodname>
+            <vrmlist>
+                <vrm version="1.1"/>
+            </vrmlist>
+        </prodinfo>
+    </topicmeta>
+    <!-- Related links -->
     <reltable>
         <relheader>
             <relcolspec type="concept"/>
