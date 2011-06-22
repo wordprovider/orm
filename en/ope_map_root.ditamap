@@ -173,7 +173,9 @@
             </relcell>
         </relrow>
     </reltable>
-    <topicref href="ope_concept_legal.dita" type="concept"/>
+    <topicgroup type="frontmatter">
+        <topicref href="ope_concept_legal.dita" type="concept"/>
+    </topicgroup>
     <topichead navtitle="Introducing Ormetis Professional Edition">
         <topicref href="ope_concept_what_is_ormetis.dita" type="concept"/>
         <topicref href="ope_concept_how_do_you_work_with_ormetis.dita" type="concept"/>
