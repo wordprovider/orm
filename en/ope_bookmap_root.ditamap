@@ -7,11 +7,10 @@
     <bookmeta>
         <prodinfo>
             <prodname>Ormetis Professional Edition</prodname>
-        <vrmlist>
-            <vrm version="1.1"/>
-        </vrmlist>
-    </prodinfo>
-        <author>Wordprovider Ltd</author>
+            <vrmlist>
+                <vrm version="1.1"/>
+            </vrmlist>
+            </prodinfo>
     </bookmeta>
     <frontmatter>
         <topicref href="ope_concept_legal.dita" type="concept"/>
