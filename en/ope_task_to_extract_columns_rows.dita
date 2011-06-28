@@ -16,7 +16,7 @@
                 </info>
             </step>
             <step>
-                <cmd>Click <menucascade><uicontrol>Home</uicontrol><uicontrol>Columns &amp; Rows</uicontrol><uicontrol>Extract</uicontrol></menucascade>.</cmd>
+                <cmd>Click <menucascade><uicontrol>Home</uicontrol><uicontrol>Columns <data>&amp;</data> Rows</uicontrol><uicontrol>Extract</uicontrol></menucascade>.</cmd>
                 <stepresult>Ormetis Professional Edition deletes all columns and rows other than the ones you selected from the view.</stepresult>
             </step>
         </steps>

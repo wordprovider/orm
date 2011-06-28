@@ -16,7 +16,7 @@
                 <cmd>Select the columns you want to test for empty values.</cmd>
             </step>
             <step>
-                <cmd>Click <menucascade><uicontrol>Data</uicontrol><uicontrol>Sort &amp; Filter</uicontrol><uicontrol>Remove Empty Rows</uicontrol></menucascade>.</cmd>
+                <cmd>Click <menucascade><uicontrol>Data</uicontrol><uicontrol>Sort <data>&amp;</data> Filter</uicontrol><uicontrol>Remove Empty Rows</uicontrol></menucascade>.</cmd>
                 <stepresult>Ormetis Professional Edition removes all rows containing empty values in the selected columns.</stepresult>
             </step>
         </steps>

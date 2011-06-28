@@ -16,7 +16,7 @@
                 </info>
             </step>
             <step>
-                <cmd>Click <menucascade><uicontrol>Home</uicontrol><uicontrol>Columns &amp; Rows</uicontrol><uicontrol>Delete</uicontrol></menucascade>.</cmd>
+                <cmd>Click <menucascade><uicontrol>Home</uicontrol><uicontrol>Columns <data>&amp;</data> Rows</uicontrol><uicontrol>Delete</uicontrol></menucascade>.</cmd>
                 <stepresult>Ormetis Professional Edition deletes the columns and rows you selected from the view.</stepresult>
             </step>
         </steps>

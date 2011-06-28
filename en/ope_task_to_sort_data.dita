@@ -13,7 +13,7 @@
                 <cmd>Select the column you want to use to sort the data. (You can also select the grouping control in a grouped view to apply the sort to the grouping values.)</cmd>
             </step>
             <step>
-                <cmd>Click <menucascade><uicontrol>Data</uicontrol><uicontrol>Sort &amp; Filter</uicontrol><uicontrol>Sort A-Z</uicontrol></menucascade> to sort the data in ascending order, or <uicontrol>Sort Z-A</uicontrol> to sort the data in descending order.</cmd>
+                <cmd>Click <menucascade><uicontrol>Data</uicontrol><uicontrol>Sort <data>&amp;</data> Filter</uicontrol><uicontrol>Sort A-Z</uicontrol></menucascade> to sort the data in ascending order, or <uicontrol>Sort Z-A</uicontrol> to sort the data in descending order.</cmd>
                 <info>
                     <note>If you selected the grouping control in a grouped view, Ormetis Professional Edition applies the sort to the values in the grouping control. If you selected a column in the view, Ormetis Professional Edition applies the sort to the column.</note>
                 </info>

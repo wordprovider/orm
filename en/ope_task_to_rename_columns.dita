@@ -13,7 +13,7 @@
                 <cmd>Select the header of the column you want to rename.</cmd>
             </step>
             <step>
-                <cmd>Click <menucascade><uicontrol>Home</uicontrol><uicontrol>Columns &amp; Rows</uicontrol><uicontrol>Rename</uicontrol></menucascade>.</cmd>
+                <cmd>Click <menucascade><uicontrol>Home</uicontrol><uicontrol>Columns <data>&amp;</data>Rows</uicontrol><uicontrol>Rename</uicontrol></menucascade>.</cmd>
             </step>
             <step>
                 <cmd>Type the new column name in the column header.</cmd>

@@ -13,7 +13,7 @@
                 <cmd>Select the cells containing the values you want to use to remove rows.</cmd>
             </step>
             <step>
-                <cmd>Click <menucascade><uicontrol>Data</uicontrol><uicontrol>Sort &amp; Filter</uicontrol><uicontrol>Remove Rows</uicontrol></menucascade>.</cmd>
+                <cmd>Click <menucascade><uicontrol>Data</uicontrol><uicontrol>Sort <data>&amp;</data> Filter</uicontrol><uicontrol>Remove Rows</uicontrol></menucascade>.</cmd>
                 <stepresult>
                     <p>Ormetis Professional Edition removes all rows where the selected columns have the values in the selected cells.</p>
                     <p>For example, if you selected cells in the City column containing the values "Los Angeles" and "San Diego", Ormetis Professional Edition removes all rows where the value of City is "Los Angeles" or "San Diego".</p>
