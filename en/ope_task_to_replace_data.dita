@@ -21,9 +21,9 @@
         </steps><example>
             <title>Replacing text in cells</title>
             <p>In the following view you select rows 1 and 2 and replace the "Jacket" text in the Product column with "Coat".</p><image
-                href="images/vw_before_replace.png" scale="70" height="113" width="321"/>
+                href="images/vw_before_replace.png" scale="70" height="113" width="321" placement="break"/>
             <p>Ormetis Professional Edition replaces the data as follows:</p><image
-                href="images/vw_row_replace.png" scale="70" width="324" height="114"/>
+                href="images/vw_row_replace.png" scale="70" width="324" height="114" placement="break"/>
             <p>In the same view, you replace the "Jacket" text with "Coat" in any cell in the Product column, and without selecting any rows. In this case, Ormetis Professional Edition changes the values in all the cells to "Coat".</p>
         </example></taskbody>
 </task>

@@ -18,9 +18,9 @@
             </step>
         </steps><example>
             <title>Flipping columns and rows</title>
-            <p>A view displays the following data:</p><image href="images/vw_deliveries.png" scale="70" width="313" height="114"/>
+            <p>A view displays the following data:</p><image href="images/vw_deliveries.png" scale="70" width="313" height="114" placement="break"/>
             <p>If you flip the columns, the data appears as follows:</p>
-            <image href="images/vw_flipped_cols.png" scale="70" width="323" height="116"/>
-            <p>If you flip the rows, the data appears as follows:</p><image href="images/vw_flipped_rows.png" scale="70" width="321" height="114"/>
+            <image href="images/vw_flipped_cols.png" scale="70" width="323" height="116" placement="break"/>
+            <p>If you flip the rows, the data appears as follows:</p><image href="images/vw_flipped_rows.png" scale="70" width="321" height="114" placement="break"/>
         </example></taskbody>
 </task>
